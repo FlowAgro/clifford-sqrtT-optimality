@@ -1,0 +1,53 @@
+# log: ./logs/sonda_M_A_soT_20261120_065441.log
+# comando: sonda_M_soT.py A --sqrt logs/sonda_M_A_20261120_042636.csv
+# inicio: 2026-11-20 06:54:41 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+tabela so-T: 786430 palavras a esquerda, 196606 a direita (x24 Cliffords), cobertura 32, raio 3e-03 | 1 s
+C2 grade (tabela 14+12, cobertura 24): 40r 50 candidatos, 4r 50 -> IGUAIS
+alvo 310: 3641 candidatos so-T (min 22; min < eps 23; publicado T 23) | 1e-05: 22.59 (suporte 4) | 1e-06: 23.79 (suporte 5) | 18 s
+alvo 311: 3563 candidatos so-T (min 19; min < eps 24; publicado T 25) | 1e-05: 21.75 (suporte 4) | 1e-06: 23.93 (suporte 5) | 14 s
+alvo 312: 3512 candidatos so-T (min 16; min < eps 26; publicado T 26) | 1e-05: 20.41 (suporte 4) | 1e-06: 24.69 (suporte 5) | 17 s
+alvo 313: 3603 candidatos so-T (min 21; min < eps 24; publicado T 24) | 1e-05: 22.98 (suporte 4) | 1e-06: 24.46 (suporte 5) | 16 s
+alvo 314: 3585 candidatos so-T (min 19; min < eps 26; publicado T 26) | 1e-05: 21.93 (suporte 4) | 1e-06: 25.09 (suporte 5) | 15 s
+alvo 315: 3493 candidatos so-T (min 18; min < eps 24; publicado T 24) | 1e-05: 21.68 (suporte 4) | 1e-06: 25.44 (suporte 5) | 14 s
+alvo 316: 3551 candidatos so-T (min 21; min < eps 25; publicado T 25) | 1e-05: 22.17 (suporte 4) | 1e-06: 23.99 (suporte 5) | 14 s
+alvo 317: 3544 candidatos so-T (min 22; min < eps 22; publicado T 22) | 1e-05: 22.74 (suporte 4) | 1e-06: 23.68 (suporte 5) | 14 s
+alvo 318: 3586 candidatos so-T (min 20; min < eps 26; publicado T 26) | 1e-05: 21.93 (suporte 4) | 1e-06: 25.42 (suporte 5) | 16 s
+alvo 319: 3536 candidatos so-T (min 17; min < eps 25; publicado T 26) | 1e-05: 21.06 (suporte 4) | 1e-06: 26.19 (suporte 5) | 14 s
+alvo 320: 3614 candidatos so-T (min 22; min < eps 26; publicado T 26) | 1e-05: 23.20 (suporte 4) | 1e-06: 26.53 (suporte 5) | 14 s
+alvo 321: 3481 candidatos so-T (min 21; min < eps 26; publicado T 26) | 1e-05: 22.62 (suporte 4) | 1e-06: 25.79 (suporte 5) | 13 s
+alvo 322: 3619 candidatos so-T (min 21; min < eps 25; publicado T 25) | 1e-05: 21.90 (suporte 4) | 1e-06: 25.82 (suporte 5) | 14 s
+alvo 323: 3563 candidatos so-T (min 22; min < eps 26; publicado T 26) | 1e-05: 22.80 (suporte 4) | 1e-06: 25.87 (suporte 5) | 15 s
+alvo 324: 3619 candidatos so-T (min 20; min < eps 26; publicado T 26) | 1e-05: 21.52 (suporte 4) | 1e-06: 25.60 (suporte 5) | 15 s
+alvo 325: 3520 candidatos so-T (min 20; min < eps 24; publicado T 24) | 1e-05: 21.45 (suporte 4) | 1e-06: 24.52 (suporte 5) | 15 s
+alvo 326: 3750 candidatos so-T (min 19; min < eps 27; publicado T 27) | 1e-05: 20.21 (suporte 4) | 1e-06: 26.09 (suporte 5) | 15 s
+alvo 327: 3423 candidatos so-T (min 19; min < eps 25; publicado T 25) | 1e-05: 21.27 (suporte 4) | 1e-06: 25.13 (suporte 5) | 14 s
+alvo 328: 3601 candidatos so-T (min 21; min < eps 25; publicado T 25) | 1e-05: 21.40 (suporte 4) | 1e-06: 24.60 (suporte 5) | 16 s
+alvo 329: 3472 candidatos so-T (min 13; min < eps 23; publicado T 23) | 1e-05: 18.30 (suporte 4) | 1e-06: 21.87 (suporte 5) | 16 s
+alvo 330: 3584 candidatos so-T (min 18; min < eps 25; publicado T 25) | 1e-05: 20.94 (suporte 4) | 1e-06: 24.70 (suporte 5) | 15 s
+alvo 331: 3535 candidatos so-T (min 21; min < eps 25; publicado T 25) | 1e-05: 21.62 (suporte 4) | 1e-06: 24.78 (suporte 5) | 16 s
+alvo 332: 3474 candidatos so-T (min 23; min < eps 25; publicado T 25) | 1e-05: 23.84 (suporte 4) | 1e-06: 25.06 (suporte 5) | 14 s
+alvo 333: 3664 candidatos so-T (min 18; min < eps 25; publicado T 26) | 1e-05: 20.37 (suporte 4) | 1e-06: 25.66 (suporte 5) | 14 s
+alvo 334: 3604 candidatos so-T (min 20; min < eps 20; publicado T 20) | 1e-05: 21.22 (suporte 4) | 1e-06: 23.53 (suporte 5) | 14 s
+alvo 335: 3632 candidatos so-T (min 19; min < eps 28; publicado T 28) | 1e-05: 20.89 (suporte 4) | 1e-06: 26.83 (suporte 5) | 15 s
+alvo 336: 3611 candidatos so-T (min 16; min < eps 26; publicado T 26) | 1e-05: 20.73 (suporte 4) | 1e-06: 25.79 (suporte 5) | 21 s
+alvo 337: 3684 candidatos so-T (min 21; min < eps 22; publicado T 22) | 1e-05: 21.96 (suporte 4) | 1e-06: 24.18 (suporte 5) | 16 s
+alvo 338: 3653 candidatos so-T (min 19; min < eps 27; publicado T 27) | 1e-05: 21.11 (suporte 4) | 1e-06: 26.23 (suporte 5) | 14 s
+alvo 339: 3502 candidatos so-T (min 20; min < eps 26; publicado T 26) | 1e-05: 20.51 (suporte 4) | 1e-06: 23.76 (suporte 5) | 14 s
+alvo 340: 3627 candidatos so-T (min 21; min < eps 25; publicado T 25) | 1e-05: 21.37 (suporte 4) | 1e-06: 24.57 (suporte 5) | 14 s
+alvo 341: 3546 candidatos so-T (min 23; min < eps 23; publicado T 23) | 1e-05: 23.00 (suporte 4) | 1e-06: 24.82 (suporte 5) | 14 s
+alvo 342: 3450 candidatos so-T (min 16; min < eps 23; publicado T 26) | 1e-05: 19.22 (suporte 4) | 1e-06: 23.96 (suporte 5) | 15 s
+alvo 343: 3553 candidatos so-T (min 18; min < eps 27; publicado T 27) | 1e-05: 18.80 (suporte 4) | 1e-06: 25.35 (suporte 5) | 15 s
+alvo 344: 3498 candidatos so-T (min 21; min < eps 25; publicado T 25) | 1e-05: 22.95 (suporte 4) | 1e-06: 25.30 (suporte 5) | 13 s
+alvo 345: 3510 candidatos so-T (min 20; min < eps 24; publicado T 25) | 1e-05: 20.83 (suporte 4) | 1e-06: 22.87 (suporte 5) | 15 s
+alvo 346: 3502 candidatos so-T (min 22; min < eps 26; publicado T 26) | 1e-05: 22.75 (suporte 4) | 1e-06: 26.00 (suporte 5) | 14 s
+alvo 347: 3533 candidatos so-T (min 15; min < eps 24; publicado T 24) | 1e-05: 20.50 (suporte 4) | 1e-06: 24.80 (suporte 5) | 16 s
+alvo 348: 3602 candidatos so-T (min 22; min < eps 24; publicado T 24) | 1e-05: 22.00 (suporte 4) | 1e-06: 23.88 (suporte 5) | 15 s
+alvo 349: 3494 candidatos so-T (min 22; min < eps 22; publicado T 22) | 1e-05: 22.05 (suporte 4) | 1e-06: 23.77 (suporte 5) | 14 s
+
+=== RESUMO (modo A, 40 alvos, 600 s) ===
+eps efetivo 1e-05: mistura T viavel 40/40 | custo medio mix T 21.51 (publicado T 44.57 -> 0.483) | pares 40: R = mix sqrtT / mix T media 0.767 mediana 0.777 [min 0.637, max 0.859]
+eps efetivo 1e-06: mistura T viavel 40/40 | custo medio mix T 24.86 (publicado T 54.57 -> 0.456) | pares 40: R = mix sqrtT / mix T media 0.752 mediana 0.750 [min 0.654, max 0.862]
+
+controles: OK
+VEREDITO PASSO 3 (eps 1e-06): R = 0.752 (cortes 0,85 / 0,70), T viavel 100% -> vantagem do sqrtT SOBREVIVE
+tabela por alvo em: ./logs/sonda_M_A_soT_20261120_065441.csv

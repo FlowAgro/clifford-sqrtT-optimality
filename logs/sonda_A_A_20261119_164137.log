@@ -1,0 +1,16 @@
+# log: ./logs/sonda_A_A_20261119_164137.log
+# comando: sonda_A_perfil_q.py A --n 2
+# inicio: 2026-11-19 16:41:37 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+linha de base Clifford+T: cyclosynth sqrt_t=False
+tabela pronta em 1 s: E = 155596 palavras, D x Clifford = 1439520 pontos; cobertura certificada: custo <= 21
+alvo 300: cyclosynth 20.0 | base C+T 25 | OPT 20 (q=2, N=34, lde=26) | perfil q1:21:N39:lde26 q2:20:N34:lde26 q3:20:N31:lde22 q4:20:N28:lde16 q5:20:N25:lde15
+alvo 301: cyclosynth 17.0 | base C+T 23 | OPT 17 (q=2, N=28, lde=18) | perfil q1:21:N39:lde27 q2:17:N28:lde18 q3:19:N29:lde15 q5:19:N23:lde13
+
+=== RESUMO (eps = 1e-03, n = 2 alvos, 4 s) ===
+Distribuicao de q no otimo: {2: 2}
+Otimo: N de Forest medio 31.0 | lde da matriz medio 22.0 | OPT medio 18.50 | cyclosynth medio 18.50
+P1: alvos com circuito q=0 na cobertura: 0 | base C+T acima do melhor q=0: 0 (0.0%) -> NAO TESTAVEL (nenhum q=0 na cobertura)
+P2: otimo com q >= 2 em 2/2 (100%); q in {0,1} mais caro que o otimo por >= 2 em 1/2 (50%) -> passou
+    (None conta como 'mais caro': nenhum circuito com q <= 1 dentro da cobertura)
+VEREDITO A: seguir para o desenho do certificado
+tabela por alvo em: ./logs/sonda_A_A_20261119_164137.csv

@@ -1,0 +1,18 @@
+# log: .\logs\verifica_M50_20261120_072341.log
+# comando: verifica_M50.py sonda_M_B_soT_20261120_071405.csv
+# inicio: 2026-11-20 07:23:41 | python 3.14.6 | Windows-11-10.0.26300-SP0
+
+== sonda_M_B_soT_20261120_071405.csv ==
+alvo 310 eps 1e-07 | inferior 8.56680092053e-8 | superior 9.99998998676e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.85668095
+alvo 310 eps 1e-08 | inferior 9.99998999576e-9 | superior 9.99999023291e-9 | sup/eps-1 -9.77e-7 | inf/sup 0.99999998
+alvo 311 eps 1e-07 | inferior 7.86148806482e-8 | superior 9.99998999267e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.78614959
+alvo 311 eps 1e-08 | inferior 9.99998999486e-9 | superior 9.99999005542e-9 | sup/eps-1 -9.94e-7 | inf/sup 0.99999999
+alvo 312 eps 1e-07 | inferior 8.43108789387e-8 | superior 9.99999001033e-8 | sup/eps-1 -9.99e-7 | inf/sup 0.84310963
+alvo 312 eps 1e-08 | inferior 9.99998999376e-9 | superior 9.99999012095e-9 | sup/eps-1 -9.88e-7 | inf/sup 0.99999999
+alvo 313 eps 1e-07 | inferior 7.82136510067e-8 | superior 9.99999000236e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.78213729
+alvo 313 eps 1e-08 | inferior 9.99998999959e-9 | superior 9.99999007232e-9 | sup/eps-1 -9.93e-7 | inf/sup 0.99999999
+alvo 314 eps 1e-07 | inferior 7.33560991912e-8 | superior 9.99999000124e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.73356173
+alvo 314 eps 1e-08 | inferior 9.9999899993e-9 | superior 9.99999002302e-9 | sup/eps-1 -9.98e-7 | inf/sup 1.0
+alvo 315 eps 1e-07 | inferior 8.58656190802e-8 | superior 9.99999000584e-8 | sup/eps-1 -9.99e-7 | inf/sup 0.85865705
+alvo 316 eps 1e-07 | inferior 8.52684007719e-8 | superior 9.99998999659e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.85268486
+alvo 316 eps 1e-08 | inferior 9.99998999916e-9 | superior 9.99999008948e-9 | sup/eps-1 -9.91e-7 | inf/sup 0.99999999

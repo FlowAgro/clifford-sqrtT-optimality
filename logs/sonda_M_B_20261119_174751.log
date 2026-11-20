@@ -1,0 +1,32 @@
+# log: ./logs/sonda_M_B_20261119_174751.log
+# comando: sonda_M_mistura.py B --n 20
+# inicio: 2026-11-19 17:47:51 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+candidatos: eps = 1e-04, completos ate custo 27 | publicado deterministico medio: 1e-04 = 26.24; 1e-07 = 50.60, 1e-08 = 58.39
+tabela pronta em 3 s | raio dos candidatos 3.0e-04 (alvos sorteados no eps 1e-04)
+alvo 310: 85 candidatos (custo min 20) | 1e-07: 22.07 (suporte 4, cota 1.00e-07) | 1e-08: inviavel
+alvo 311: 68 candidatos (custo min 24) | 1e-07: 24.22 (suporte 4, cota 1.00e-07) | 1e-08: inviavel
+alvo 312: 60 candidatos (custo min 24) | 1e-07: 24.78 (suporte 4, cota 1.00e-07) | 1e-08: inviavel
+alvo 313: 64 candidatos (custo min 21) | 1e-07: 23.68 (suporte 4, cota 1.00e-07) | 1e-08: 26.25 (suporte 5, cota 1.00e-08)
+alvo 314: 60 candidatos (custo min 24) | 1e-07: 24.44 (suporte 4, cota 1.00e-07) | 1e-08: 26.10 (suporte 5, cota 1.00e-08)
+alvo 315: 87 candidatos (custo min 22) | 1e-07: 23.69 (suporte 4, cota 1.00e-07) | 1e-08: inviavel
+alvo 316: 60 candidatos (custo min 23) | 1e-07: 23.48 (suporte 4, cota 1.00e-07) | 1e-08: 26.44 (suporte 5, cota 1.00e-08)
+alvo 317: 61 candidatos (custo min 23) | 1e-07: 24.02 (suporte 4, cota 1.00e-07) | 1e-08: inviavel
+alvo 318: 67 candidatos (custo min 24) | 1e-07: 24.29 (suporte 4, cota 1.00e-07) | 1e-08: 26.56 (suporte 5, cota 1.00e-08)
+alvo 319: 69 candidatos (custo min 22) | 1e-07: 22.88 (suporte 4, cota 1.00e-07) | 1e-08: inviavel
+alvo 320: 75 candidatos (custo min 24) | 1e-07: 24.45 (suporte 4, cota 1.00e-07) | 1e-08: 26.30 (suporte 5, cota 1.00e-08)
+alvo 321: 66 candidatos (custo min 23) | 1e-07: 23.49 (suporte 4, cota 1.00e-07) | 1e-08: 24.24 (suporte 5, cota 1.00e-08)
+alvo 322: 59 candidatos (custo min 24) | 1e-07: 24.06 (suporte 4, cota 1.00e-07) | 1e-08: inviavel
+alvo 323: 83 candidatos (custo min 23) | 1e-07: 23.93 (suporte 4, cota 1.00e-07) | 1e-08: 26.93 (suporte 5, cota 1.00e-08)
+alvo 324: 67 candidatos (custo min 22) | 1e-07: 23.28 (suporte 4, cota 1.00e-07) | 1e-08: 26.58 (suporte 5, cota 1.00e-08)
+alvo 325: 59 candidatos (custo min 23) | 1e-07: 24.10 (suporte 4, cota 1.00e-07) | 1e-08: inviavel
+alvo 326: 60 candidatos (custo min 24) | 1e-07: 24.62 (suporte 4, cota 1.00e-07) | 1e-08: 26.04 (suporte 5, cota 1.00e-08)
+alvo 327: 69 candidatos (custo min 21) | 1e-07: 22.31 (suporte 4, cota 1.00e-07) | 1e-08: 25.96 (suporte 5, cota 1.00e-08)
+alvo 328: 65 candidatos (custo min 22) | 1e-07: 23.33 (suporte 4, cota 1.00e-07) | 1e-08: 25.47 (suporte 5, cota 1.00e-08)
+alvo 329: 66 candidatos (custo min 21) | 1e-07: 22.91 (suporte 4, cota 1.00e-07) | 1e-08: inviavel
+
+=== RESUMO (modo B, n = 20 alvos, 182 s) ===
+eps efetivo 1e-07: viavel em 20/20 (100%) | custo esperado medio 23.70 | publicado deterministico 50.60 -> razao 0.468 | suporte medio 4.0 | custo max medio no suporte 25.4 | frac sqrtT 0.227
+eps efetivo 1e-08: viavel em 11/20 (55%) | custo esperado medio 26.08 | publicado deterministico 58.39 -> razao 0.447 | suporte medio 5.0 | custo max medio no suporte 27.0 | frac sqrtT 0.211
+
+VEREDITO M (eps efetivo 1e-07): viabilidade 100% (corte 90%), razao 0.468 (corte 0,70) -> PASSOU
+tabela por alvo em: ./logs/sonda_M_B_20261119_174751.csv

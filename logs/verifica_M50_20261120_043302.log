@@ -1,0 +1,126 @@
+# log: .\logs\verifica_M50_20261120_043302.log
+# comando: verifica_M50.py sonda_M_A_20261120_042636.csv sonda_M_B_20261120_043031.csv
+# inicio: 2026-11-20 04:33:02 | python 3.14.6 | Windows-11-10.0.26300-SP0
+
+== sonda_M_A_20261120_042636.csv ==
+alvo 310 eps 1e-05 | inferior 8.60901392397e-6 | superior 9.99999000015e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.86090225
+alvo 310 eps 1e-06 | inferior 9.99998999985e-7 | superior 9.99999000115e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 311 eps 1e-05 | inferior 8.02837256028e-6 | superior 9.9999900002e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.80283806
+alvo 311 eps 1e-06 | inferior 9.99998999999e-7 | superior 9.99999000245e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 312 eps 1e-05 | inferior 7.72827202627e-6 | superior 9.99999e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.77282798
+alvo 312 eps 1e-06 | inferior 9.99998999994e-7 | superior 9.9999900008e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 313 eps 1e-05 | inferior 7.75725617269e-6 | superior 9.99998999996e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.77572639
+alvo 313 eps 1e-06 | inferior 9.99998999999e-7 | superior 9.99999000063e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 314 eps 1e-05 | inferior 8.27709007419e-6 | superior 9.99999e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.82770984
+alvo 314 eps 1e-06 | inferior 9.99998999997e-7 | superior 9.99999000049e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 315 eps 1e-05 | inferior 9.05021049922e-6 | superior 9.99998999993e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.90502195
+alvo 315 eps 1e-06 | inferior 9.99998999995e-7 | superior 9.99999000102e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 316 eps 1e-05 | inferior 8.3398723538e-6 | superior 9.99998999998e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.83398807
+alvo 316 eps 1e-06 | inferior 9.99998999997e-7 | superior 9.999990001e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 317 eps 1e-05 | inferior 7.68448850682e-6 | superior 9.9999899999e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.76844962
+alvo 317 eps 1e-06 | inferior 9.99998999996e-7 | superior 9.99999000136e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 318 eps 1e-05 | inferior 8.32968557611e-6 | superior 9.99998999997e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.83296939
+alvo 318 eps 1e-06 | inferior 9.99998999999e-7 | superior 9.99999000105e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 319 eps 1e-05 | inferior 8.44695640621e-6 | superior 9.99998999995e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.84469649
+alvo 319 eps 1e-06 | inferior 9.99998999995e-7 | superior 9.99999000133e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 320 eps 1e-05 | inferior 8.09802214344e-6 | superior 9.99998999997e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.80980302
+alvo 320 eps 1e-06 | inferior 9.99998999995e-7 | superior 9.99999000081e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 321 eps 1e-05 | inferior 7.65327708976e-6 | superior 9.99999000003e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.76532847
+alvo 321 eps 1e-06 | inferior 9.99998999988e-7 | superior 9.99999000157e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 322 eps 1e-05 | inferior 8.69378534892e-6 | superior 9.99999000003e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.8693794
+alvo 322 eps 1e-06 | inferior 9.99998999998e-7 | superior 9.99999000116e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 323 eps 1e-05 | inferior 7.71349362645e-6 | superior 9.99998999995e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.77135013
+alvo 323 eps 1e-06 | inferior 9.99998999998e-7 | superior 9.9999900014e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 324 eps 1e-05 | inferior 7.643129535e-6 | superior 9.99999000002e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.76431372
+alvo 324 eps 1e-06 | inferior 9.99999e-7 | superior 9.99999000096e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 325 eps 1e-05 | inferior 7.61944086908e-6 | superior 9.99999e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.76194485
+alvo 325 eps 1e-06 | inferior 9.99998999986e-7 | superior 9.99999000102e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 326 eps 1e-05 | inferior 7.50504562093e-6 | superior 9.99998999991e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.75050531
+alvo 326 eps 1e-06 | inferior 9.99998999998e-7 | superior 9.99999000074e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 327 eps 1e-05 | inferior 8.21685553371e-6 | superior 9.99998999998e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.82168638
+alvo 327 eps 1e-06 | inferior 9.99999e-7 | superior 9.99999000031e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 328 eps 1e-05 | inferior 8.04088319808e-6 | superior 9.99999e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.80408912
+alvo 328 eps 1e-06 | inferior 9.99998999992e-7 | superior 9.9999900014e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 329 eps 1e-05 | inferior 7.75355886196e-6 | superior 9.99999e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.77535666
+alvo 329 eps 1e-06 | inferior 9.99998999998e-7 | superior 9.99999000127e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 330 eps 1e-05 | inferior 2.29237187224e-6 | superior 2.29237187239e-6 | sup/eps-1 -0.771 | inf/sup 1.0
+alvo 330 eps 1e-06 | inferior 9.99998999998e-7 | superior 9.99999000152e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 331 eps 1e-05 | inferior 8.00110799885e-6 | superior 9.99999000007e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.8001116
+alvo 331 eps 1e-06 | inferior 9.99998999999e-7 | superior 9.99999000266e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 332 eps 1e-05 | inferior 7.82272027073e-6 | superior 9.99999000001e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.78227281
+alvo 332 eps 1e-06 | inferior 9.99998999999e-7 | superior 9.9999900006e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 333 eps 1e-05 | inferior 7.69037487584e-6 | superior 9.99999e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.76903826
+alvo 333 eps 1e-06 | inferior 9.99998999998e-7 | superior 9.99999000057e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 334 eps 1e-05 | inferior 8.08102699117e-6 | superior 9.99998999994e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.80810351
+alvo 334 eps 1e-06 | inferior 9.99998999998e-7 | superior 9.99999000103e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 335 eps 1e-05 | inferior 7.66732566235e-6 | superior 9.99999000001e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.76673333
+alvo 335 eps 1e-06 | inferior 9.99998999993e-7 | superior 9.99999000047e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 336 eps 1e-05 | inferior 7.99817158368e-6 | superior 9.99999000001e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.79981796
+alvo 336 eps 1e-06 | inferior 9.99998999999e-7 | superior 9.9999900007e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 337 eps 1e-05 | inferior 7.57550544636e-6 | superior 9.99998999987e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.7575513
+alvo 337 eps 1e-06 | inferior 9.99998999991e-7 | superior 9.99999000241e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 338 eps 1e-05 | inferior 7.63722257177e-6 | superior 9.99999e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.76372302
+alvo 338 eps 1e-06 | inferior 9.99998999998e-7 | superior 9.99999000057e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 339 eps 1e-05 | inferior 7.88569424028e-6 | superior 9.99998999995e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.78857021
+alvo 339 eps 1e-06 | inferior 9.99998999991e-7 | superior 9.99999000122e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 340 eps 1e-05 | inferior 8.12259996335e-6 | superior 9.99999000006e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.81226081
+alvo 340 eps 1e-06 | inferior 9.99999e-7 | superior 9.99999000147e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 341 eps 1e-05 | inferior 7.2121854687e-6 | superior 9.99998999997e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.72121927
+alvo 341 eps 1e-06 | inferior 9.99999e-7 | superior 9.99999000057e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 342 eps 1e-05 | inferior 7.42990937715e-6 | superior 9.99999000018e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.74299168
+alvo 342 eps 1e-06 | inferior 9.99998999996e-7 | superior 9.99999000194e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 343 eps 1e-05 | inferior 7.6749074899e-6 | superior 9.99998999989e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.76749152
+alvo 343 eps 1e-06 | inferior 9.99998999988e-7 | superior 9.99999000098e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 344 eps 1e-05 | inferior 7.56800249703e-6 | superior 9.99999000016e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.75680101
+alvo 344 eps 1e-06 | inferior 9.99998999999e-7 | superior 9.99999000238e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 345 eps 1e-05 | inferior 7.50682231626e-6 | superior 9.99998999988e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.75068298
+alvo 345 eps 1e-06 | inferior 9.99998999994e-7 | superior 9.99999000191e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 346 eps 1e-05 | inferior 8.03784922413e-6 | superior 9.99999000012e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.80378573
+alvo 346 eps 1e-06 | inferior 9.99998999996e-7 | superior 9.99999000191e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 347 eps 1e-05 | inferior 8.06541462541e-6 | superior 9.99998999993e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.80654227
+alvo 347 eps 1e-06 | inferior 9.99998999991e-7 | superior 9.99999000077e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 348 eps 1e-05 | inferior 7.75520315011e-6 | superior 9.99998999991e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.77552109
+alvo 348 eps 1e-06 | inferior 9.99999e-7 | superior 9.99999000151e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 349 eps 1e-05 | inferior 7.77160159163e-6 | superior 9.99999000012e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.77716094
+alvo 349 eps 1e-06 | inferior 9.99998999999e-7 | superior 9.99999000197e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+
+== sonda_M_B_20261120_043031.csv ==
+alvo 310 eps 1e-07 | inferior 7.63539888806e-8 | superior 9.99998999578e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.76354065
+alvo 311 eps 1e-07 | inferior 7.76232977982e-8 | superior 9.99999000103e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.77623375
+alvo 312 eps 1e-07 | inferior 7.59494440215e-8 | superior 9.99999000294e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.7594952
+alvo 313 eps 1e-07 | inferior 7.56749173245e-8 | superior 9.99999000268e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.75674993
+alvo 313 eps 1e-08 | inferior 9.99998999863e-9 | superior 9.999990007e-9 | sup/eps-1 -9.99e-7 | inf/sup 1.0
+alvo 314 eps 1e-07 | inferior 7.95831980626e-8 | superior 9.99998999837e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.79583278
+alvo 314 eps 1e-08 | inferior 9.99998999841e-9 | superior 9.99999002672e-9 | sup/eps-1 -9.97e-7 | inf/sup 1.0
+alvo 315 eps 1e-07 | inferior 7.50981797932e-8 | superior 9.99998999725e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.75098255
+alvo 316 eps 1e-07 | inferior 8.00062857508e-8 | superior 9.99998999682e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.80006366
+alvo 316 eps 1e-08 | inferior 9.99998998768e-9 | superior 9.99999010272e-9 | sup/eps-1 -9.9e-7 | inf/sup 0.99999999
+alvo 317 eps 1e-07 | inferior 8.43257249069e-8 | superior 9.99999000429e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.84325809
+alvo 318 eps 1e-07 | inferior 7.54273333879e-8 | superior 9.99998999471e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.75427409
+alvo 318 eps 1e-08 | inferior 9.99998999451e-9 | superior 9.99999007156e-9 | sup/eps-1 -9.93e-7 | inf/sup 0.99999999
+alvo 319 eps 1e-07 | inferior 7.93548736826e-8 | superior 9.99999000211e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.79354953
+alvo 320 eps 1e-07 | inferior 7.99645472764e-8 | superior 9.99998999441e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.79964627
+alvo 320 eps 1e-08 | inferior 9.99998999707e-9 | superior 9.99999009336e-9 | sup/eps-1 -9.91e-7 | inf/sup 0.99999999
+alvo 321 eps 1e-07 | inferior 8.53513131034e-8 | superior 9.99998999893e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.85351398
+alvo 321 eps 1e-08 | inferior 9.99998999608e-9 | superior 9.99999004775e-9 | sup/eps-1 -9.95e-7 | inf/sup 0.99999999
+alvo 322 eps 1e-07 | inferior 8.62829401268e-8 | superior 9.9999900089e-8 | sup/eps-1 -9.99e-7 | inf/sup 0.86283026
+alvo 323 eps 1e-07 | inferior 7.84059426703e-8 | superior 9.99999000825e-8 | sup/eps-1 -9.99e-7 | inf/sup 0.78406021
+alvo 323 eps 1e-08 | inferior 9.99998999352e-9 | superior 9.99999010615e-9 | sup/eps-1 -9.89e-7 | inf/sup 0.99999999
+alvo 324 eps 1e-07 | inferior 7.61572168432e-8 | superior 9.99999001222e-8 | sup/eps-1 -9.99e-7 | inf/sup 0.76157293
+alvo 324 eps 1e-08 | inferior 9.99998999971e-9 | superior 9.99999021255e-9 | sup/eps-1 -9.79e-7 | inf/sup 0.99999998
+alvo 325 eps 1e-07 | inferior 7.65646556964e-8 | superior 9.99998999306e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.76564732
+alvo 326 eps 1e-07 | inferior 7.91727520543e-8 | superior 9.99998997681e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.79172831
+alvo 326 eps 1e-08 | inferior 9.99998999961e-9 | superior 9.99999029613e-9 | sup/eps-1 -9.7e-7 | inf/sup 0.99999997
+alvo 327 eps 1e-07 | inferior 7.83629536752e-8 | superior 9.99998999374e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.78363032
+alvo 327 eps 1e-08 | inferior 9.99998999373e-9 | superior 9.99999005316e-9 | sup/eps-1 -9.95e-7 | inf/sup 0.99999999
+alvo 328 eps 1e-07 | inferior 7.9354033533e-8 | superior 9.9999900003e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.79354113
+alvo 328 eps 1e-08 | inferior 9.99998999847e-9 | superior 9.99999003962e-9 | sup/eps-1 -9.96e-7 | inf/sup 1.0
+alvo 329 eps 1e-07 | inferior 7.78905987847e-8 | superior 9.99998999937e-8 | sup/eps-1 -1.0e-6 | inf/sup 0.77890677
+
+=== RESUMO (50 digitos) ===
+M_A eps 1e-05: n = 40 | aperto inf/sup mediana 0.779717 min 0.721219 max 1.000000 | superior > eps estrito em 0 (max excesso rel -1.00e-06)
+M_A eps 1e-06: n = 40 | aperto inf/sup mediana 1.000000 min 1.000000 max 1.000000 | superior > eps estrito em 0 (max excesso rel -1.00e-06)
+M_B eps 1e-07: n = 20 | aperto inf/sup mediana 0.783845 min 0.750983 max 0.862830 | superior > eps estrito em 0 (max excesso rel -9.99e-07)
+M_B eps 1e-08: n = 11 | aperto inf/sup mediana 1.000000 min 1.000000 max 1.000000 | superior > eps estrito em 0 (max excesso rel -9.70e-07)
+
+VEREDITO 50 DIGITOS: VERIFICADA ((a) inferior <= superior e (b) superior <= eps(1+1e-9) em todas)

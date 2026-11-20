@@ -1,0 +1,7 @@
+gridsynth em u3.csv: excesso de portas T sobre o minimo N/2 (descritivo, fora do pre-registro)
+1e-08 n=500  t medio=247.5  excesso medio=2.49  mediana=2.0  max=20  fracao>0=0.538  excesso/t=1.005%
+1e-07 n=500  t medio=217.4  excesso medio=2.62  mediana=2.0  max=20  fracao>0=0.532  excesso/t=1.205%
+1e-06 n=500  t medio=187.1  excesso medio=2.57  mediana=2.0  max=26  fracao>0=0.546  excesso/t=1.372%
+1e-05 n=500  t medio=157.0  excesso medio=2.65  mediana=2.0  max=18  fracao>0=0.554  excesso/t=1.689%
+1e-04 n=500  t medio=126.6  excesso medio=2.61  mediana=2.0  max=24  fracao>0=0.552  excesso/t=2.064%
+1e-03 n=500  t medio=94.8  excesso medio=2.78  mediana=2.0  max=28  fracao>0=0.536  excesso/t=2.928%

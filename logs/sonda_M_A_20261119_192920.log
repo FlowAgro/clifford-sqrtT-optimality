@@ -1,0 +1,52 @@
+# log: ./logs/sonda_M_A_20261119_192920.log
+# comando: sonda_M_mistura.py A --n 40
+# inicio: 2026-11-19 19:29:20 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+candidatos: eps = 1e-03, completos ate custo 21 | publicado deterministico medio: 1e-03 = 18.76; 1e-05 = 33.89, 1e-06 = 41.41
+tabela pronta em 0 s | raio dos candidatos 3.0e-03 (alvos sorteados no eps 1e-03)
+alvo 310: 211 candidatos (custo min 17) | 1e-05: 17.12 (suporte 4, cota 1.00e-05) | 1e-06: 17.80 (suporte 5, cota 1.00e-06)
+alvo 311: 214 candidatos (custo min 16) | 1e-05: 16.64 (suporte 4, cota 1.00e-05) | 1e-06: 18.74 (suporte 5, cota 1.00e-06)
+alvo 312: 212 candidatos (custo min 16) | 1e-05: 16.98 (suporte 4, cota 1.00e-05) | 1e-06: 18.10 (suporte 5, cota 1.00e-06)
+alvo 313: 264 candidatos (custo min 15) | 1e-05: 15.67 (suporte 4, cota 1.00e-05) | 1e-06: 18.82 (suporte 5, cota 1.00e-06)
+alvo 314: 194 candidatos (custo min 14) | 1e-05: 15.77 (suporte 4, cota 1.00e-05) | 1e-06: 17.93 (suporte 5, cota 1.00e-06)
+alvo 315: 264 candidatos (custo min 16) | 1e-05: 16.14 (suporte 4, cota 1.00e-05) | 1e-06: 16.65 (suporte 5, cota 1.00e-06)
+alvo 316: 243 candidatos (custo min 16) | 1e-05: 16.80 (suporte 4, cota 1.00e-05) | 1e-06: 18.34 (suporte 5, cota 1.00e-06)
+alvo 317: 236 candidatos (custo min 16) | 1e-05: 16.84 (suporte 4, cota 1.00e-05) | 1e-06: 17.93 (suporte 5, cota 1.00e-06)
+alvo 318: 202 candidatos (custo min 16) | 1e-05: 17.48 (suporte 4, cota 1.00e-05) | 1e-06: 20.17 (suporte 5, cota 1.00e-06)
+alvo 319: 239 candidatos (custo min 16) | 1e-05: 16.83 (suporte 4, cota 1.00e-05) | 1e-06: 18.01 (suporte 5, cota 1.00e-06)
+alvo 320: 209 candidatos (custo min 14) | 1e-05: 16.63 (suporte 4, cota 1.00e-05) | 1e-06: 18.31 (suporte 5, cota 1.00e-06)
+alvo 321: 212 candidatos (custo min 14) | 1e-05: 15.92 (suporte 4, cota 1.00e-05) | 1e-06: 18.79 (suporte 5, cota 1.00e-06)
+alvo 322: 173 candidatos (custo min 18) | 1e-05: 18.08 (suporte 4, cota 1.00e-05) | 1e-06: 20.20 (suporte 5, cota 1.00e-06)
+alvo 323: 215 candidatos (custo min 12) | 1e-05: 14.51 (suporte 4, cota 1.00e-05) | 1e-06: 18.69 (suporte 5, cota 1.00e-06)
+alvo 324: 228 candidatos (custo min 17) | 1e-05: 17.37 (suporte 4, cota 1.00e-05) | 1e-06: 18.82 (suporte 5, cota 1.00e-06)
+alvo 325: 226 candidatos (custo min 16) | 1e-05: 16.83 (suporte 4, cota 1.00e-05) | 1e-06: 19.83 (suporte 5, cota 1.00e-06)
+alvo 326: 229 candidatos (custo min 14) | 1e-05: 15.81 (suporte 4, cota 1.00e-05) | 1e-06: 18.33 (suporte 5, cota 1.00e-06)
+alvo 327: 210 candidatos (custo min 16) | 1e-05: 16.68 (suporte 4, cota 1.00e-05) | 1e-06: 18.22 (suporte 5, cota 1.00e-06)
+alvo 328: 241 candidatos (custo min 16) | 1e-05: 16.45 (suporte 4, cota 1.00e-05) | 1e-06: 17.13 (suporte 5, cota 1.00e-06)
+alvo 329: 220 candidatos (custo min 13) | 1e-05: 15.40 (suporte 4, cota 1.00e-05) | 1e-06: 18.86 (suporte 5, cota 1.00e-06)
+alvo 330: 205 candidatos (custo min 18) | 1e-05: 18.00 (suporte 4, cota 2.29e-06) | 1e-06: 19.39 (suporte 5, cota 1.00e-06)
+alvo 331: 222 candidatos (custo min 16) | 1e-05: 17.31 (suporte 4, cota 1.00e-05) | 1e-06: 19.34 (suporte 5, cota 1.00e-06)
+alvo 332: 201 candidatos (custo min 14) | 1e-05: 15.41 (suporte 4, cota 1.00e-05) | 1e-06: 20.97 (suporte 5, cota 1.00e-06)
+alvo 333: 219 candidatos (custo min 16) | 1e-05: 16.94 (suporte 4, cota 1.00e-05) | 1e-06: 18.43 (suporte 5, cota 1.00e-06)
+alvo 334: 205 candidatos (custo min 16) | 1e-05: 16.98 (suporte 4, cota 1.00e-05) | 1e-06: 18.22 (suporte 5, cota 1.00e-06)
+alvo 335: 194 candidatos (custo min 15) | 1e-05: 16.32 (suporte 4, cota 1.00e-05) | 1e-06: 18.43 (suporte 5, cota 1.00e-06)
+alvo 336: 231 candidatos (custo min 16) | 1e-05: 16.19 (suporte 4, cota 1.00e-05) | 1e-06: 18.34 (suporte 5, cota 1.00e-06)
+alvo 337: 192 candidatos (custo min 14) | 1e-05: 15.83 (suporte 4, cota 1.00e-05) | 1e-06: 17.25 (suporte 5, cota 1.00e-06)
+alvo 338: 253 candidatos (custo min 14) | 1e-05: 16.00 (suporte 4, cota 1.00e-05) | 1e-06: 18.14 (suporte 5, cota 1.00e-06)
+alvo 339: 213 candidatos (custo min 16) | 1e-05: 16.71 (suporte 4, cota 1.00e-05) | 1e-06: 18.73 (suporte 5, cota 1.00e-06)
+alvo 340: 238 candidatos (custo min 15) | 1e-05: 16.64 (suporte 4, cota 1.00e-05) | 1e-06: 19.02 (suporte 5, cota 1.00e-06)
+alvo 341: 223 candidatos (custo min 16) | 1e-05: 16.97 (suporte 4, cota 1.00e-05) | 1e-06: 18.60 (suporte 5, cota 1.00e-06)
+alvo 342: 252 candidatos (custo min 13) | 1e-05: 15.24 (suporte 4, cota 1.00e-05) | 1e-06: 19.57 (suporte 5, cota 1.00e-06)
+alvo 343: 236 candidatos (custo min 15) | 1e-05: 16.15 (suporte 4, cota 1.00e-05) | 1e-06: 19.04 (suporte 5, cota 1.00e-06)
+alvo 344: 243 candidatos (custo min 12) | 1e-05: 15.10 (suporte 4, cota 1.00e-05) | 1e-06: 19.11 (suporte 5, cota 1.00e-06)
+alvo 345: 195 candidatos (custo min 14) | 1e-05: 16.17 (suporte 4, cota 1.00e-05) | 1e-06: 18.40 (suporte 5, cota 1.00e-06)
+alvo 346: 243 candidatos (custo min 15) | 1e-05: 16.73 (suporte 4, cota 1.00e-05) | 1e-06: 19.14 (suporte 5, cota 1.00e-06)
+alvo 347: 212 candidatos (custo min 15) | 1e-05: 15.80 (suporte 4, cota 1.00e-05) | 1e-06: 19.50 (suporte 5, cota 1.00e-06)
+alvo 348: 218 candidatos (custo min 17) | 1e-05: 17.81 (suporte 4, cota 1.00e-05) | 1e-06: 19.55 (suporte 5, cota 1.00e-06)
+alvo 349: 232 candidatos (custo min 15) | 1e-05: 15.56 (suporte 4, cota 1.00e-05) | 1e-06: 17.79 (suporte 5, cota 1.00e-06)
+
+=== RESUMO (modo A, n = 40 alvos, 231 s) ===
+eps efetivo 1e-05: viavel em 40/40 (100%) | custo esperado medio 16.45 | publicado deterministico 33.89 -> razao 0.485 | suporte medio 4.0 | custo max medio no suporte 18.2 | frac sqrtT 0.210
+eps efetivo 1e-06: viavel em 40/40 (100%) | custo esperado medio 18.67 | publicado deterministico 41.41 -> razao 0.451 | suporte medio 5.0 | custo max medio no suporte 20.2 | frac sqrtT 0.217
+
+VEREDITO M (eps efetivo 1e-06): viabilidade 100% (corte 90%), razao 0.451 (corte 0,70) -> PASSOU
+tabela por alvo em: ./logs/sonda_M_A_20261119_192920.csv

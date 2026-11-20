@@ -1,0 +1,3 @@
+sanidade: r2^2 = Mod(2, x^8 + 1) ; H*H = [1, 0; 0, 1] ; N(Uz(2)) = 2 ; N(Uz(1)) = 3 ; N(Ux(3)) = 3
+palavras = 3000 | divergencias de N = 2 nT + 3 nR: 0
+controle (formula errada nT + 3 nR): falhas = 229/300

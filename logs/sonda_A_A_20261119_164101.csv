@@ -1,0 +1,4 @@
+trial,custo_cyclosynth,custo_base_CT,opt,q_opt,N_opt,perfil_q:custo:N
+300,20.0,25,20,2,26,q1:21:N26 q2:20:N26 q3:20:N22 q4:20:N16 q5:20:N15
+301,17.0,23,17,2,18,q1:21:N27 q2:17:N18 q3:19:N15 q5:19:N13
+302,17.0,25,17,2,21,q2:17:N21 q3:21:N20 q4:21:N18 q5:21:N15

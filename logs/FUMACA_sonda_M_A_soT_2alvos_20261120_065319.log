@@ -1,0 +1,16 @@
+# log: ./logs/sonda_M_A_soT_20261120_065319.log
+# comando: sonda_M_soT.py A --sqrt logs/sonda_M_A_20261120_042636.csv --n 2
+# inicio: 2026-11-20 06:53:19 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+tabela so-T: 786430 palavras a esquerda, 196606 a direita (x24 Cliffords), cobertura 32, raio 3e-03 | 2 s
+C2 grade (tabela 12+10, cobertura 20): 40r 0 candidatos, 4r 0 -> DIFERENTES/VAZIA
+alvo 310: 3641 candidatos so-T (min 22; min < eps 23; publicado T 23) | 1e-05: 22.59 (suporte 4) | 1e-06: 23.79 (suporte 5) | 19 s
+alvo 311: 3563 candidatos so-T (min 19; min < eps 24; publicado T 25) | 1e-05: 21.75 (suporte 4) | 1e-06: 23.93 (suporte 5) | 18 s
+
+=== RESUMO (modo A, 2 alvos, 42 s) ===
+eps efetivo 1e-05: mistura T viavel 2/2 | custo medio mix T 22.17 (publicado T 44.57 -> 0.497) | pares 2: R = mix sqrtT / mix T media 0.761 mediana 0.761 [min 0.758, max 0.765]
+eps efetivo 1e-06: mistura T viavel 2/2 | custo medio mix T 23.86 (publicado T 54.57 -> 0.437) | pares 2: R = mix sqrtT / mix T media 0.766 mediana 0.766 [min 0.748, max 0.783]
+
+controles: 1 FALHAS
+   C2
+VEREDITO PASSO 3: rodada INVALIDA (controle falhou)
+tabela por alvo em: ./logs/sonda_M_A_soT_20261120_065319.csv

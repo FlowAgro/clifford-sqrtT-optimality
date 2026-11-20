@@ -1,0 +1,54 @@
+# log: ./logs/sonda_A_B_20261119_172943.log
+# comando: sonda_A_perfil_q.py B --n 40
+# inicio: 2026-11-19 17:29:43 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+linha de base Clifford+T: cyclosynth sqrt_t=False
+tabela pronta em 4 s: E = 7048396 palavras, D x Clifford = 9687840 pontos; cobertura certificada: custo <= 27
+alvo 300: nada com custo <= 27 (fora da cobertura)
+alvo 301: cyclosynth 26.0 | base C+T 36 | OPT 26 (q=3, N=43, lde=22) | perfil q3:26:N43:lde22 q5:27:N39:lde22 q6:27:N36:lde24
+alvo 302: cyclosynth 27.0 | base C+T 36 | OPT 27 (q=5, N=39, lde=20) | perfil q5:27:N39:lde20
+alvo 303: cyclosynth 22.0 | base C+T 34 | OPT 22 (q=5, N=29, lde=17) | perfil q3:27:N45:lde32 q4:26:N40:lde25 q5:22:N29:lde17 q7:27:N33:lde19
+alvo 304: cyclosynth 26.0 | base C+T 34 | OPT 26 (q=5, N=37, lde=26) | perfil q3:27:N45:lde24 q4:27:N42:lde30 q5:26:N37:lde26
+alvo 305: cyclosynth 27.0 | base C+T 36 | OPT 27 (q=4, N=42, lde=31) | perfil q4:27:N42:lde31 q5:27:N39:lde26
+alvo 306: cyclosynth 24.0 | base C+T 33 | OPT 24 (q=4, N=36, lde=23) | perfil q2:26:N46:lde28 q3:27:N45:lde30 q4:24:N36:lde23 q5:27:N39:lde24
+alvo 307: cyclosynth 27.0 | base C+T 35 | OPT 26 (q=3, N=43, lde=27) | perfil q3:26:N43:lde27 q4:27:N42:lde24
+alvo 308: cyclosynth 27.0 | base C+T 36 | OPT 27 (q=6, N=36, lde=21) | perfil q6:27:N36:lde21
+alvo 309: cyclosynth 26.0 | base C+T 33 | OPT 26 (q=5, N=37, lde=22) | perfil q2:27:N48:lde39 q3:27:N45:lde37 q4:27:N42:lde33 q5:26:N37:lde22
+alvo 310: cyclosynth 25.0 | base C+T 34 | OPT 25 (q=2, N=44, lde=29) | perfil q2:25:N44:lde29 q3:25:N41:lde26
+alvo 311: cyclosynth 28.0 | base C+T 34 | OPT 26 (q=3, N=43, lde=25) | perfil q3:26:N43:lde25
+alvo 312: cyclosynth 27.0 | base C+T 35 | OPT 27 (q=4, N=42, lde=33) | perfil q4:27:N42:lde33
+alvo 313: cyclosynth 27.0 | base C+T 34 | OPT 27 (q=6, N=36, lde=25) | perfil q6:27:N36:lde25
+alvo 314: cyclosynth 27.0 | base C+T 34 | OPT 26 (q=2, N=46, lde=30) | perfil q1:27:N51:lde35 q2:26:N46:lde30 q4:27:N42:lde30
+alvo 315: cyclosynth 26.0 | base C+T 35 | OPT 26 (q=4, N=40, lde=21) | perfil q4:26:N40:lde21
+alvo 316: cyclosynth 29.0 | base C+T 35 | OPT 26 (q=1, N=49, lde=32) | perfil q1:26:N49:lde32
+alvo 317: nada com custo <= 27 (fora da cobertura)
+alvo 318: cyclosynth 27.0 | base C+T 36 | OPT 27 (q=3, N=45, lde=29) | perfil q3:27:N45:lde29
+alvo 319: cyclosynth 23.0 | base C+T 36 | OPT 23 (q=1, N=43, lde=34) | perfil q1:23:N43:lde34 q3:27:N45:lde28
+alvo 320: cyclosynth 27.0 | base C+T 35 | OPT 27 (q=4, N=42, lde=23) | perfil q4:27:N42:lde23 q6:27:N36:lde20
+alvo 321: cyclosynth 23.0 | base C+T 34 | OPT 23 (q=4, N=34, lde=20) | perfil q4:23:N34:lde20 q5:26:N37:lde21
+alvo 322: cyclosynth 24.0 | base C+T 34 | OPT 24 (q=3, N=39, lde=27) | perfil q3:24:N39:lde27 q6:27:N36:lde18
+alvo 323: cyclosynth 27.0 | base C+T 31 | OPT 27 (q=5, N=39, lde=22) | perfil q5:27:N39:lde22
+alvo 324: cyclosynth 27.0 | base C+T 34 | OPT 27 (q=4, N=42, lde=30) | perfil q4:27:N42:lde30
+alvo 325: cyclosynth 26.0 | base C+T 37 | OPT 26 (q=3, N=43, lde=28) | perfil q3:26:N43:lde28 q4:27:N42:lde25 q5:26:N37:lde22
+alvo 326: cyclosynth 28.0 | base C+T 33 | OPT 26 (q=3, N=43, lde=30) | perfil q3:26:N43:lde30
+alvo 327: cyclosynth 26.0 | base C+T 34 | OPT 26 (q=4, N=40, lde=23) | perfil q4:26:N40:lde23
+alvo 328: cyclosynth 26.0 | base C+T 36 | OPT 26 (q=5, N=37, lde=21) | perfil q5:26:N37:lde21
+alvo 329: cyclosynth 27.0 | base C+T 37 | OPT 27 (q=4, N=42, lde=28) | perfil q4:27:N42:lde28
+alvo 330: cyclosynth 28.0 | base C+T 35 | OPT 27 (q=4, N=42, lde=28) | perfil q4:27:N42:lde28
+alvo 331: cyclosynth 27.0 | base C+T 34 | OPT 27 (q=2, N=48, lde=32) | perfil q2:27:N48:lde32 q6:27:N36:lde23
+alvo 332: cyclosynth 27.0 | base C+T 33 | OPT 27 (q=4, N=42, lde=30) | perfil q4:27:N42:lde30
+alvo 333: cyclosynth 28.0 | base C+T 34 | OPT 27 (q=3, N=45, lde=27) | perfil q3:27:N45:lde27
+alvo 334: cyclosynth 26.0 | base C+T 37 | OPT 26 (q=4, N=40, lde=27) | perfil q4:26:N40:lde27 q5:27:N39:lde23
+alvo 335: cyclosynth 26.0 | base C+T 37 | OPT 26 (q=3, N=43, lde=28) | perfil q3:26:N43:lde28 q4:26:N40:lde21 q5:27:N39:lde24 q7:27:N33:lde16
+alvo 336: cyclosynth 27.0 | base C+T 32 | OPT 26 (q=2, N=46, lde=26) | perfil q2:26:N46:lde26 q3:27:N45:lde33 q4:27:N42:lde28
+alvo 337: cyclosynth 25.0 | base C+T 38 | OPT 25 (q=3, N=41, lde=23) | perfil q3:25:N41:lde23 q4:27:N42:lde29 q6:27:N36:lde23
+alvo 338: nada com custo <= 27 (fora da cobertura)
+alvo 339: nada com custo <= 27 (fora da cobertura)
+
+=== RESUMO (eps = 1e-04, n = 36 alvos, 282 s) ===
+Distribuicao de q no otimo: {1: 2, 2: 4, 3: 10, 4: 12, 5: 6, 6: 2}
+Otimo: N de Forest medio 41.1 | lde da matriz medio 26.1 | OPT medio 25.94 | cyclosynth medio 26.28
+P1: alvos com circuito q=0 na cobertura: 0 | base C+T acima do melhor q=0: 0 (0.0%) -> NAO TESTAVEL (nenhum q=0 na cobertura)
+P2: otimo com q >= 2 em 34/36 (94%); q in {0,1} mais caro que o otimo por >= 2 em 33/36 (92%) -> passou
+    (None conta como 'mais caro': nenhum circuito com q <= 1 dentro da cobertura)
+VEREDITO A: seguir para o desenho do certificado
+tabela por alvo em: ./logs/sonda_A_B_20261119_172943.csv

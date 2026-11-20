@@ -1,0 +1,17 @@
+# log: ./logs/sonda_M_A_20261119_173212.log
+# comando: sonda_M_mistura.py A --n 5 --primeiro 300
+# inicio: 2026-11-19 17:32:12 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+candidatos: eps = 1e-03, completos ate custo 21 | publicado deterministico medio: 1e-03 = 18.76; 1e-05 = 33.89, 1e-06 = 41.41
+tabela pronta em 1 s | raio dos candidatos 3.0e-03 (alvos sorteados no eps 1e-03)
+alvo 300: 237 candidatos (custo min 14) | 1e-05: 15.70 (suporte 4, cota 1.00e-05) | 1e-06: 18.82 (suporte 5, cota 1.00e-06)
+alvo 301: 220 candidatos (custo min 15) | 1e-05: 16.07 (suporte 4, cota 1.00e-05) | 1e-06: 17.91 (suporte 5, cota 1.00e-06)
+alvo 302: 223 candidatos (custo min 15) | 1e-05: 16.53 (suporte 4, cota 1.00e-05) | 1e-06: 18.57 (suporte 5, cota 1.00e-06)
+alvo 303: 240 candidatos (custo min 13) | 1e-05: 15.74 (suporte 4, cota 1.00e-05) | 1e-06: 18.50 (suporte 5, cota 1.00e-06)
+alvo 304: 242 candidatos (custo min 15) | 1e-05: 15.29 (suporte 4, cota 1.00e-05) | 1e-06: 17.59 (suporte 5, cota 1.00e-06)
+
+=== RESUMO (modo A, n = 5 alvos, 62 s) ===
+eps efetivo 1e-05: viavel em 5/5 (100%) | custo esperado medio 15.87 | publicado deterministico 33.89 -> razao 0.468 | suporte medio 4.0 | custo max medio no suporte 17.8 | frac sqrtT 0.246
+eps efetivo 1e-06: viavel em 5/5 (100%) | custo esperado medio 18.28 | publicado deterministico 41.41 -> razao 0.441 | suporte medio 5.0 | custo max medio no suporte 19.8 | frac sqrtT 0.219
+
+VEREDITO M (eps efetivo 1e-06): viabilidade 100% (corte 90%), razao 0.441 (corte 0,70) -> PASSOU
+tabela por alvo em: ./logs/sonda_M_A_20261119_173212.csv

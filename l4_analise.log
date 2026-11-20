@@ -1,0 +1,11 @@
+PARTE A (eps = 1e-4) | linhas rejeitadas na reconferencia: 0
+A1 reproducao (janela 2, sem limite): 149/150 iguais ao publicado (99.3%) -> OK; menores: 0; maiores: 1; ms medio 2133
+A2 janela 4: n = 29 | no otimo conhecido: 8 (28%) | melhoraram: 9 | abaixo do 'otimo' (seria erro da L3): 0 | custo medio 27.17 (publicado 27.79, otimo 26.17) | s por alvo: media 7.9, max 10.0
+A2 janela 6: n = 29 | no otimo conhecido: 9 (31%) | melhoraram: 11 | abaixo do 'otimo' (seria erro da L3): 0 | custo medio 27.07 (publicado 27.79, otimo 26.17) | s por alvo: media 16.3, max 19.2
+A2 janela 8: n = 29 | no otimo conhecido: 12 (41%) | melhoraram: 16 | abaixo do 'otimo' (seria erro da L3): 0 | custo medio 26.86 (publicado 27.79, otimo 26.17) | s por alvo: media 26.0, max 28.8
+
+PARTE B (eps = 1e-7) | linhas rejeitadas na reconferencia: 0
+B janela:limite = pad:pad | n = 20 | custo medio 50.75 | publicado 50.20 | reducao sobre o publicado -1.10% | melhores que o publicado: 4, piores: 8 | s por alvo: media 2.4, max 3.7
+B janela:limite = 2:20000 | n = 20 | custo medio 49.20 | publicado 50.20 | reducao sobre o publicado +1.99% | melhores que o publicado: 7, piores: 1 | s por alvo: media 20.9, max 22.4
+B janela:limite = 4:20000 | n = 20 | custo medio 48.90 | publicado 50.20 | reducao sobre o publicado +2.59% | melhores que o publicado: 9, piores: 1 | s por alvo: media 20.9, max 22.2
+B janela:limite = 4:60000 | n = 20 | custo medio 48.70 | publicado 50.20 | reducao sobre o publicado +2.99% | melhores que o publicado: 10, piores: 1 | s por alvo: media 60.9, max 62.3

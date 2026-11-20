@@ -1,0 +1,160 @@
+T3 contagem: palavras com custo <= 13: 403660 (esperado 403660 para 13; 155596 para 12)
+palavras E (custo <= 16): 7048396 ; palavras D (custo <= 13): 403660
+T4 Cliffords: 24 distintos; custo maximo pela regra dos autores: 0 -> OK
+tabela D pronta: 9687840 pontos, 3 s
+alvo 0: c* = 27, melhor achado = 26, candidatos = 6 -> SUBOTIMO | d = 9.5827e-05 | SHTHsTHTHSHTHsQTSHTHsTSHTHsHTHTSHTHsTSHTHsTSHTHsTHTHTSHTHsHTHSHTHsQTHSS
+alvo 1: c* = 27, melhor achado = 27, candidatos = 2 -> CERTIFICADO
+alvo 2: c* = 28, melhor achado = 26, candidatos = 11 -> SUBOTIMO | d = 7.9925e-05 | HTHSHTHsQTSHTHsQTSHQTHsHTHTHTHTSHTHsTSHTHsHTHTHTHSHTHsHTHTSHTHsSHSSH
+alvo 3: c* = 26, melhor achado = 26, candidatos = 2 -> CERTIFICADO
+alvo 4: c* = 22, melhor achado = 22, candidatos = 6 -> CERTIFICADO
+alvo 5: c* = 27, melhor achado = 27, candidatos = 6 -> CERTIFICADO
+alvo 6: c* = 26, melhor achado = 26, candidatos = 2 -> CERTIFICADO
+alvo 7: c* = 25, melhor achado = 25, candidatos = 3 -> CERTIFICADO
+alvo 8: c* = 27, melhor achado = 27, candidatos = 3 -> CERTIFICADO
+alvo 9: c* = 27, melhor achado = 27, candidatos = 8 -> CERTIFICADO
+alvo 10: c* = 27, melhor achado = 27, candidatos = 3 -> CERTIFICADO
+alvo 11: c* = 27, melhor achado = 26, candidatos = 5 -> SUBOTIMO | d = 9.7479e-05 | THTHSHTHsTHQHSHTHsTSHTHsHTHSHQHsTHTHTSHTHsHTHTSHTHsHTHTHTHTHTHHSHSSH
+alvo 12: c* = 27, melhor achado = 27, candidatos = 2 -> CERTIFICADO
+alvo 13: c* = 27, melhor achado = 26, candidatos = 10 -> SUBOTIMO | d = 6.7627e-05 | TSHQTHsTSHTHsHTHTSHTHsHTHSHTHsTHTHSHQTHsHTHSHTHsTHQTHSHTHsTHTHSHTHsSSHSS
+alvo 14: c* = 24, melhor achado = 24, candidatos = 4 -> CERTIFICADO
+alvo 15: c* = 18, melhor achado = 18, candidatos = 5 -> CERTIFICADO
+alvo 16: c* = 26, melhor achado = 26, candidatos = 2 -> CERTIFICADO
+alvo 17: c* = 27, melhor achado = 26, candidatos = 12 -> SUBOTIMO | d = 8.2827e-05 | SHTHsHTHSHTHsHQHSHTHsTHTHSHTHsHTHSHQHsTSHQHsHTHTHTHSHTHsHTHTHTHTH
+alvo 18: c* = 25, melhor achado = 25, candidatos = 2 -> CERTIFICADO
+alvo 19: c* = 26, melhor achado = 26, candidatos = 2 -> CERTIFICADO
+alvo 20: c* = 25, melhor achado = 25, candidatos = 3 -> CERTIFICADO
+alvo 21: c* = 27, melhor achado = 27, candidatos = 6 -> CERTIFICADO
+alvo 22: c* = 29, melhor achado = 25, candidatos = 44 -> SUBOTIMO | d = 4.5171e-05 | SHTHsTSHTHsHTHTHTHTSHQTHsHTHSHQHsHQTHTSHTHsTHTHTSHTHsTHTHHSSHSS
+alvo 23: c* = 26, melhor achado = 26, candidatos = 8 -> CERTIFICADO
+alvo 24: c* = 27, melhor achado = 27, candidatos = 1 -> CERTIFICADO
+alvo 25: c* = 23, melhor achado = 23, candidatos = 7 -> CERTIFICADO
+alvo 26: c* = 28, melhor achado = 28, candidatos = 12 -> CERTIFICADO
+alvo 27: c* = 27, melhor achado = 27, candidatos = 3 -> CERTIFICADO
+alvo 28: c* = 26, melhor achado = 26, candidatos = 4 -> CERTIFICADO
+alvo 29: c* = 27, melhor achado = 27, candidatos = 4 -> CERTIFICADO
+alvo 30: c* = 28, melhor achado = 28, candidatos = 4 -> CERTIFICADO
+alvo 31: c* = 28, melhor achado = 28, candidatos = 3 -> CERTIFICADO
+alvo 32: c* = 27, melhor achado = 27, candidatos = 4 -> CERTIFICADO
+alvo 33: c* = 25, melhor achado = 25, candidatos = 3 -> CERTIFICADO
+alvo 34: c* = 27, melhor achado = 27, candidatos = 4 -> CERTIFICADO
+alvo 35: c* = 28, melhor achado = 28, candidatos = 12 -> CERTIFICADO
+alvo 36: c* = 27, melhor achado = 27, candidatos = 3 -> CERTIFICADO
+alvo 37: c* = 26, melhor achado = 26, candidatos = 1 -> CERTIFICADO
+alvo 38: c* = 28, melhor achado = 27, candidatos = 9 -> SUBOTIMO | d = 6.8714e-05 | HTHSHTHsTSHTHsHQHSHTHsTSHTHsHTHSHQTHsHTHSHTHsHTHTSHTHsHTHQSHTHsTHTHTS
+alvo 39: c* = 28, melhor achado = 28, candidatos = 1 -> CERTIFICADO
+alvo 40: c* = 24, melhor achado = 24, candidatos = 4 -> CERTIFICADO
+alvo 41: c* = 24, melhor achado = 24, candidatos = 4 -> CERTIFICADO
+alvo 42: c* = 27, melhor achado = 27, candidatos = 3 -> CERTIFICADO
+alvo 43: c* = 26, melhor achado = 26, candidatos = 1 -> CERTIFICADO
+alvo 44: c* = 25, melhor achado = 25, candidatos = 6 -> CERTIFICADO
+alvo 45: c* = 23, melhor achado = 23, candidatos = 3 -> CERTIFICADO
+alvo 46: c* = 27, melhor achado = 27, candidatos = 3 -> CERTIFICADO
+alvo 47: c* = 28, melhor achado = 27, candidatos = 8 -> SUBOTIMO | d = 9.2320e-05 | SHTHsTHTHTHQHSHTHsTSHTHsTHQHSHTHsHTHTHTHQHTHSHTHsTSHQTHsHSS
+alvo 48: c* = 25, melhor achado = 25, candidatos = 3 -> CERTIFICADO
+alvo 49: c* = 29, melhor achado = 27, candidatos = 9 -> SUBOTIMO | d = 6.8872e-05 | SHQHsTHTHTSHTHsHTHTHTHTSHTHsHTHSHQHsHQTHTHTHTSHTHsHTHSHQTHsHSSH
+alvo 50: c* = 25, melhor achado = 25, candidatos = 3 -> CERTIFICADO
+alvo 51: c* = 24, melhor achado = 24, candidatos = 4 -> CERTIFICADO
+alvo 52: c* = 29, melhor achado = 29, candidatos = 10 -> INDETERMINADO
+alvo 53: c* = 25, melhor achado = 25, candidatos = 6 -> CERTIFICADO
+alvo 54: c* = 29, melhor achado = 27, candidatos = 13 -> SUBOTIMO | d = 8.9899e-05 | HTHTHTHSHTHsTSHTHsHTHTSHTHsHTHTHTHTHTHSHTHsTTSHQTHsHTHQTSHTHsHTHSHTHsHTHSHTHsHSH
+alvo 55: c* = 27, melhor achado = 27, candidatos = 2 -> CERTIFICADO
+alvo 56: c* = 25, melhor achado = 25, candidatos = 5 -> CERTIFICADO
+alvo 57: c* = 26, melhor achado = 26, candidatos = 4 -> CERTIFICADO
+alvo 58: c* = 23, melhor achado = 23, candidatos = 3 -> CERTIFICADO
+alvo 59: c* = 25, melhor achado = 25, candidatos = 10 -> CERTIFICADO
+alvo 60: c* = 27, melhor achado = 27, candidatos = 5 -> CERTIFICADO
+alvo 61: c* = 27, melhor achado = 26, candidatos = 6 -> SUBOTIMO | d = 8.9746e-05 | HTHSHTHsHTHSHTHsTSHTHsTHTHTHTHSHQTHsTSHTHsHTHTSHTHsTSHTHsHTHQSHTHsHTHHSSS
+alvo 62: c* = 27, melhor achado = 27, candidatos = 2 -> CERTIFICADO
+alvo 63: c* = 24, melhor achado = 24, candidatos = 6 -> CERTIFICADO
+alvo 64: c* = 24, melhor achado = 24, candidatos = 4 -> CERTIFICADO
+alvo 65: c* = 19, melhor achado = 19, candidatos = 7 -> CERTIFICADO
+alvo 66: c* = 27, melhor achado = 25, candidatos = 20 -> SUBOTIMO | d = 4.6355e-05 | HTHTSHTHsTHTHTSHTHsHTHSHTHsTSHTHsHTHTSHQHsHTHSHTHsHTHSHTHsHTHSHTHsTSHTHsTHSS
+alvo 67: c* = 27, melhor achado = 27, candidatos = 4 -> CERTIFICADO
+alvo 68: c* = 25, melhor achado = 25, candidatos = 3 -> CERTIFICADO
+alvo 69: c* = 27, melhor achado = 27, candidatos = 6 -> CERTIFICADO
+alvo 70: c* = 26, melhor achado = 26, candidatos = 1 -> CERTIFICADO
+alvo 71: c* = 27, melhor achado = 27, candidatos = 3 -> CERTIFICADO
+alvo 72: c* = 28, melhor achado = 26, candidatos = 15 -> SUBOTIMO | d = 8.0297e-05 | THQTHTSHTHsHTHSHTHsHTHTHQHSHTHsTHTHSHTHsHTHSHTHsTSHTHsTSHTHsHTHSHTHsTSSHSS
+alvo 73: c* = 24, melhor achado = 24, candidatos = 2 -> CERTIFICADO
+alvo 74: c* = 29, melhor achado = 28, candidatos = 7 -> SUBOTIMO | d = 3.5317e-05 | HTHSHTHsHTHTSHTHsQHTHTHQHSHTHsTSHTHsTHTHSHTHsHTHSHTHsTSHTHsTHTHTSHTHsTSHSSS
+alvo 75: c* = 27, melhor achado = 27, candidatos = 4 -> CERTIFICADO
+alvo 76: c* = 26, melhor achado = 25, candidatos = 7 -> SUBOTIMO | d = 9.2230e-05 | HTHTHQHSHTHsHTHSHTHsHTHTSHTHsHTHTHTHSHTHsTSHTHsQTSHTHsTSHTHsTHTHS
+alvo 77: c* = 28, melhor achado = 28, candidatos = 7 -> CERTIFICADO
+alvo 78: c* = 27, melhor achado = 27, candidatos = 4 -> CERTIFICADO
+alvo 79: c* = 27, melhor achado = 25, candidatos = 12 -> SUBOTIMO | d = 4.3278e-05 | TSHQHsHTHSHTHsHTHTHTHTHTHTSHTHsTSHTHsTTSHTHsTSHTHsHQHTSHTHsHTHSHTHsH
+alvo 80: c* = 26, melhor achado = 26, candidatos = 1 -> CERTIFICADO
+alvo 81: c* = 27, melhor achado = 27, candidatos = 2 -> CERTIFICADO
+alvo 82: c* = 26, melhor achado = 26, candidatos = 2 -> CERTIFICADO
+alvo 83: c* = 23, melhor achado = 23, candidatos = 7 -> CERTIFICADO
+alvo 84: c* = 26, melhor achado = 26, candidatos = 4 -> CERTIFICADO
+alvo 85: c* = 29, melhor achado = 27, candidatos = 17 -> SUBOTIMO | d = 2.0875e-05 | HTHTHQTHTHQHSHTHsHTHQTHTHSHTHsTSHTHsHTHTSHTHsHTHQTHTHSHTHs
+alvo 86: c* = 25, melhor achado = 25, candidatos = 7 -> CERTIFICADO
+alvo 87: c* = 27, melhor achado = 27, candidatos = 2 -> CERTIFICADO
+alvo 88: c* = 25, melhor achado = 25, candidatos = 3 -> CERTIFICADO
+alvo 89: c* = 26, melhor achado = 26, candidatos = 4 -> CERTIFICADO
+alvo 90: c* = 27, melhor achado = 27, candidatos = 17 -> CERTIFICADO
+alvo 91: c* = 23, melhor achado = 23, candidatos = 5 -> CERTIFICADO
+alvo 92: c* = 23, melhor achado = 23, candidatos = 6 -> CERTIFICADO
+alvo 93: c* = 26, melhor achado = 26, candidatos = 7 -> CERTIFICADO
+alvo 94: c* = 25, melhor achado = 25, candidatos = 6 -> CERTIFICADO
+alvo 95: c* = 25, melhor achado = 25, candidatos = 5 -> CERTIFICADO
+alvo 96: c* = 26, melhor achado = 26, candidatos = 5 -> CERTIFICADO
+alvo 97: c* = 26, melhor achado = 26, candidatos = 2 -> CERTIFICADO
+alvo 98: c* = 26, melhor achado = 26, candidatos = 3 -> CERTIFICADO
+alvo 99: c* = 21, melhor achado = 21, candidatos = 5 -> CERTIFICADO
+alvo 100: c* = 26, melhor achado = 26, candidatos = 8 -> CERTIFICADO
+alvo 101: c* = 26, melhor achado = 26, candidatos = 2 -> CERTIFICADO
+alvo 102: c* = 26, melhor achado = 26, candidatos = 2 -> CERTIFICADO
+alvo 103: c* = 26, melhor achado = 26, candidatos = 4 -> CERTIFICADO
+alvo 104: c* = 26, melhor achado = 26, candidatos = 3 -> CERTIFICADO
+alvo 105: c* = 28, melhor achado = 25, candidatos = 12 -> SUBOTIMO | d = 8.9853e-05 | SHTHsHTHTHQTHQTHTHTSHTHsTHTHTHTHSHTHsQTHTHTSHTHsTSHTHsSSHSS
+alvo 106: c* = 24, melhor achado = 24, candidatos = 4 -> CERTIFICADO
+alvo 107: c* = 26, melhor achado = 26, candidatos = 4 -> CERTIFICADO
+alvo 108: c* = 27, melhor achado = 27, candidatos = 6 -> CERTIFICADO
+alvo 109: c* = 27, melhor achado = 27, candidatos = 1 -> CERTIFICADO
+alvo 110: c* = 27, melhor achado = 27, candidatos = 4 -> CERTIFICADO
+alvo 111: c* = 25, melhor achado = 25, candidatos = 3 -> CERTIFICADO
+alvo 112: c* = 27, melhor achado = 27, candidatos = 1 -> CERTIFICADO
+alvo 113: c* = 27, melhor achado = 27, candidatos = 5 -> CERTIFICADO
+alvo 114: c* = 25, melhor achado = 25, candidatos = 5 -> CERTIFICADO
+alvo 115: c* = 25, melhor achado = 25, candidatos = 5 -> CERTIFICADO
+alvo 116: c* = 29, melhor achado = 25, candidatos = 30 -> SUBOTIMO | d = 6.7496e-05 | HTHSHQTHsHQTHSHTHsHTHTHTHSHTHsHTHTSHTHsTSHTHsTSHTHsHTHTSHQHsTSSHS
+alvo 117: c* = 27, melhor achado = 27, candidatos = 1 -> CERTIFICADO
+alvo 118: c* = 28, melhor achado = 25, candidatos = 15 -> SUBOTIMO | d = 6.1191e-05 | SHTHsTHTHSHTHsHTHSHTHsTSHTHsHQTHTSHTHsHTHTHTHTHTHSHQHsTHTHTSHTHsS
+alvo 119: c* = 21, melhor achado = 21, candidatos = 7 -> CERTIFICADO
+alvo 120: c* = 28, melhor achado = 28, candidatos = 7 -> CERTIFICADO
+alvo 121: c* = 27, melhor achado = 27, candidatos = 3 -> CERTIFICADO
+alvo 122: c* = 25, melhor achado = 25, candidatos = 1 -> CERTIFICADO
+alvo 123: c* = 27, melhor achado = 26, candidatos = 7 -> SUBOTIMO | d = 7.1104e-05 | HTHTSHTHsHTHTSHTHsTHQTHTHTHTHTHSHTHsTSHTHsHTHSHTHsHTHSHTHsTHTHSHTHsHTHSHTHsHSHS
+alvo 124: c* = 27, melhor achado = 27, candidatos = 4 -> CERTIFICADO
+alvo 125: c* = 26, melhor achado = 26, candidatos = 5 -> CERTIFICADO
+alvo 126: c* = 27, melhor achado = 26, candidatos = 11 -> SUBOTIMO | d = 9.6342e-05 | THTHSHTHsHQHSHTHsTHTHSHTHsHTHSHQHsHTHTSHTHsTHTHSHTHsHTHTSHTHsHTHTSHTHsHS
+alvo 127: c* = 26, melhor achado = 26, candidatos = 4 -> CERTIFICADO
+alvo 128: c* = 26, melhor achado = 26, candidatos = 1 -> CERTIFICADO
+alvo 129: c* = 28, melhor achado = 28, candidatos = 2 -> CERTIFICADO
+alvo 130: c* = 29, melhor achado = 28, candidatos = 14 -> SUBOTIMO | d = 1.1712e-05 | SHQTHsTHTHSHTHsTHTHSHQHsHTHTSHQHsTHTHSHTHsHTHTHQHQTHTHHSHSSS
+alvo 131: c* = 26, melhor achado = 26, candidatos = 2 -> CERTIFICADO
+alvo 132: c* = 28, melhor achado = 27, candidatos = 9 -> SUBOTIMO | d = 9.2357e-05 | HTHSHTHsHTHTSHTHsHTHTSHTHsTSHTHsHTHSHTHsHTHTSHTHsHQTHSHTHsHTHTHQTHTSHTHsTHSSHSS
+alvo 133: c* = 26, melhor achado = 26, candidatos = 4 -> CERTIFICADO
+alvo 134: c* = 28, melhor achado = 27, candidatos = 7 -> SUBOTIMO | d = 2.6107e-05 | SHQTHsHTHSHTHsTHTHTHTHTSHQHsTHTHTHQTHSHTHsTSHTHsHQHTSHTHsSHSSH
+alvo 135: c* = 26, melhor achado = 26, candidatos = 1 -> CERTIFICADO
+alvo 136: c* = 27, melhor achado = 27, candidatos = 3 -> CERTIFICADO
+alvo 137: c* = 26, melhor achado = 26, candidatos = 4 -> CERTIFICADO
+alvo 138: c* = 27, melhor achado = 27, candidatos = 1 -> CERTIFICADO
+alvo 139: c* = 27, melhor achado = 27, candidatos = 2 -> CERTIFICADO
+alvo 140: c* = 28, melhor achado = 27, candidatos = 5 -> SUBOTIMO | d = 6.6071e-05 | HTHSHTHsQHTHSHTHsQHTHSHTHsHQHSHQHsHTHSHTHsHTHTHTHTSHTHsHTHTSSHS
+alvo 141: c* = 25, melhor achado = 25, candidatos = 3 -> CERTIFICADO
+alvo 142: c* = 27, melhor achado = 27, candidatos = 1 -> CERTIFICADO
+alvo 143: c* = 28, melhor achado = 27, candidatos = 15 -> SUBOTIMO | d = 3.4114e-05 | SHTHsTHTHTSHTHsTSHTHsTHTHQTSHQTHsQHTHTHTHTHTHSHTHsTSHTHsTSHSSH
+alvo 144: c* = 26, melhor achado = 26, candidatos = 4 -> CERTIFICADO
+alvo 145: c* = 28, melhor achado = 27, candidatos = 14 -> SUBOTIMO | d = 6.3364e-05 | HTHSHTHsTSHTHsTHTHTSHTHsTSHTHsHTHSHTHsHTHSHTHsTHQHTHTHTSHTHsHTHSHTHsHQHSHSSH
+alvo 146: c* = 24, melhor achado = 24, candidatos = 4 -> CERTIFICADO
+alvo 147: c* = 24, melhor achado = 24, candidatos = 5 -> CERTIFICADO
+alvo 148: c* = 26, melhor achado = 24, candidatos = 11 -> SUBOTIMO | d = 8.3225e-05 | TSHTHsTHTHSHTHsTSHTHsTSHTHsTSHTHsHTHSHTHsHTHTHTHTHTHSHTHsHTHSHQTHsHTHHSHSS
+alvo 149: c* = 26, melhor achado = 26, candidatos = 8 -> CERTIFICADO
+
+configuracao B: eps = 1e-04, a = 16, b = 13, cobertura = custo <= 27, alvos 0 a 149 (n = 150), 5258 s
+T1 convencao (distancia dos autores reproduzida): falhas = 0/150 -> OK
+T2 cobertura (acha custo <= c* quando c* <= 27): falhas = 0 -> OK
+veredito: {'SUBOTIMO': 29, 'CERTIFICADO': 120, 'INDETERMINADO': 1}
+economia nos subotimos: media = 1.62, max = 4 (em estados T)

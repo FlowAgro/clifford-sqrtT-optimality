@@ -1,0 +1,17 @@
+# log: ./logs/verifica_M_20261119_191234.log
+# comando: verifica_M.py
+# inicio: 2026-11-19 19:12:34 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+
+== sonda_M_A_20261119_174254.csv: 80 linhas ==
+alvo 310 eps 1e-05: custo 17.115 | diamante em [8.609e-06, 1.000e-05] | aperto 0.861 | controle 1.0000
+alvo 310 eps 1e-06: custo 17.799 | diamante em [1.000e-06, 1.001e-06] | aperto 0.999 | controle 1.0000 | FALHA: cota superior 1.001e-06 > eps
+alvo 311 eps 1e-05: custo 16.644 | diamante em [8.028e-06, 1.000e-05] | aperto 0.803 | controle 1.0000 | FALHA: cota superior 1.000e-05 > eps
+alvo 311 eps 1e-06: custo 18.743 | diamante em [1.000e-06, 1.001e-06] | aperto 0.999 | controle 1.0000 | FALHA: cota superior 1.001e-06 > eps
+alvo 312 eps 1e-05: custo 16.981 | diamante em [7.729e-06, 1.000e-05] | aperto 0.773 | controle 1.0000 | FALHA: cota superior 1.000e-05 > eps
+alvo 312 eps 1e-06: custo 18.102 | diamante em [1.000e-06, 1.001e-06] | aperto 0.999 | controle 1.0000 | FALHA: cota superior 1.001e-06 > eps; COTA INFERIOR 1.000e-06 > eps
+alvo 313 eps 1e-05: custo 15.668 | diamante em [7.758e-06, 1.000e-05] | aperto 0.776 | controle 1.0000 | FALHA: cota superior 1.000e-05 > eps
+alvo 313 eps 1e-06: custo 18.817 | diamante em [1.000e-06, 1.001e-06] | aperto 0.999 | controle 1.0000 | FALHA: cota superior 1.001e-06 > eps; COTA INFERIOR 1.000e-06 > eps
+alvo 314 eps 1e-05: custo 15.770 | diamante em [8.278e-06, 1.000e-05] | aperto 0.828 | controle 1.0000 | FALHA: cota superior 1.000e-05 > eps
+alvo 314 eps 1e-06: custo 17.929 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: cota superior 1.000e-06 > eps
+alvo 315 eps 1e-05: custo 16.139 | diamante em [9.052e-06, 1.000e-05] | aperto 0.905 | controle 1.0000 | FALHA: cota superior 1.000e-05 > eps
+alvo 315 eps 1e-06: custo 16.650 | diamante em [1.000e-06, 1.002e-06] | aperto 0.998 | controle 1.0000 | FALHA: cota superior 1.002e-06 > eps; COTA INFERIOR 1.000e-06 > eps

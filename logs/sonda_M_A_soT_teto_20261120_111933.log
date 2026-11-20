@@ -1,0 +1,66 @@
+# log: ./logs/sonda_M_A_soT_teto_20261120_111933.log
+# comando: sonda_M_soT_teto.py A --sqrt logs/sonda_M_A_20261120_042636.csv --soT logs/sonda_M_A_soT_20261120_065441.csv
+# inicio: 2026-11-20 11:19:33 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+tabela so-T: cobertura 32, raio 3e-03, cobertura sqrtT 21 | tetos [32, 30, 29, 28, 27, 26], principal 27 | 2 s
+alvo 310: 3641 candidatos (teto por alvo 27) | 1e-05: cheio 22.59, teto 27 22.59 | 1e-06: cheio 23.79, teto 27 23.79 | 13 s
+alvo 311: 3563 candidatos (teto por alvo 27) | 1e-05: cheio 21.75, teto 27 21.75 | 1e-06: cheio 23.93, teto 27 23.93 | 11 s
+alvo 312: 3512 candidatos (teto por alvo 29) | 1e-05: cheio 20.41, teto 27 20.41 | 1e-06: cheio 24.69, teto 27 24.69 | 11 s
+alvo 313: 3603 candidatos (teto por alvo 26) | 1e-05: cheio 22.98, teto 27 22.98 | 1e-06: cheio 24.46, teto 27 24.46 | 12 s
+alvo 314: 3585 candidatos (teto por alvo 30) | 1e-05: cheio 21.93, teto 27 21.93 | 1e-06: cheio 25.09, teto 27 25.15 | 14 s
+alvo 315: 3493 candidatos (teto por alvo 29) | 1e-05: cheio 21.68, teto 27 21.68 | 1e-06: cheio 25.44, teto 27 25.80 | 16 s
+alvo 316: 3551 candidatos (teto por alvo 29) | 1e-05: cheio 22.17, teto 27 22.17 | 1e-06: cheio 23.99, teto 27 23.99 | 11 s
+alvo 317: 3544 candidatos (teto por alvo 25) | 1e-05: cheio 22.74, teto 27 22.74 | 1e-06: cheio 23.68, teto 27 23.68 | 11 s
+alvo 318: 3586 candidatos (teto por alvo 26) | 1e-05: cheio 21.93, teto 27 21.93 | 1e-06: cheio 25.42, teto 27 inviavel | 13 s
+alvo 319: 3536 candidatos (teto por alvo 28) | 1e-05: cheio 21.06, teto 27 21.06 | 1e-06: cheio 26.19, teto 27 inviavel | 12 s
+alvo 320: 3614 candidatos (teto por alvo 29) | 1e-05: cheio 23.20, teto 27 23.20 | 1e-06: cheio 26.53, teto 27 26.54 | 11 s
+alvo 321: 3481 candidatos (teto por alvo 27) | 1e-05: cheio 22.62, teto 27 22.62 | 1e-06: cheio 25.79, teto 27 25.79 | 11 s
+alvo 322: 3619 candidatos (teto por alvo 26) | 1e-05: cheio 21.90, teto 27 21.90 | 1e-06: cheio 25.82, teto 27 25.82 | 11 s
+alvo 323: 3563 candidatos (teto por alvo 28) | 1e-05: cheio 22.80, teto 27 22.80 | 1e-06: cheio 25.87, teto 27 inviavel | 10 s
+alvo 324: 3619 candidatos (teto por alvo 28) | 1e-05: cheio 21.52, teto 27 21.52 | 1e-06: cheio 25.60, teto 27 25.60 | 10 s
+alvo 325: 3520 candidatos (teto por alvo 25) | 1e-05: cheio 21.45, teto 27 21.45 | 1e-06: cheio 24.52, teto 27 24.52 | 10 s
+alvo 326: 3750 candidatos (teto por alvo 29) | 1e-05: cheio 20.21, teto 27 20.21 | 1e-06: cheio 26.09, teto 27 inviavel | 12 s
+alvo 327: 3423 candidatos (teto por alvo 27) | 1e-05: cheio 21.27, teto 27 21.27 | 1e-06: cheio 25.13, teto 27 25.13 | 10 s
+alvo 328: 3601 candidatos (teto por alvo 29) | 1e-05: cheio 21.40, teto 27 21.40 | 1e-06: cheio 24.60, teto 27 24.60 | 11 s
+alvo 329: 3472 candidatos (teto por alvo 25) | 1e-05: cheio 18.30, teto 27 18.30 | 1e-06: cheio 21.87, teto 27 21.87 | 11 s
+alvo 330: 3584 candidatos (teto por alvo 28) | 1e-05: cheio 20.94, teto 27 20.94 | 1e-06: cheio 24.70, teto 27 24.70 | 12 s
+alvo 331: 3535 candidatos (teto por alvo 27) | 1e-05: cheio 21.62, teto 27 21.62 | 1e-06: cheio 24.78, teto 27 inviavel | 19 s
+alvo 332: 3474 candidatos (teto por alvo 25) | 1e-05: cheio 23.84, teto 27 23.84 | 1e-06: cheio 25.06, teto 27 25.06 | 11 s
+alvo 333: 3664 candidatos (teto por alvo 29) | 1e-05: cheio 20.37, teto 27 20.37 | 1e-06: cheio 25.66, teto 27 25.66 | 12 s
+alvo 334: 3604 candidatos (teto por alvo 23) | 1e-05: cheio 21.22, teto 27 21.22 | 1e-06: cheio 23.53, teto 27 23.79 | 10 s
+alvo 335: 3632 candidatos (teto por alvo 28) | 1e-05: cheio 20.89, teto 27 20.89 | 1e-06: cheio 26.83, teto 27 inviavel | 12 s
+alvo 336: 3611 candidatos (teto por alvo 29) | 1e-05: cheio 20.73, teto 27 20.73 | 1e-06: cheio 25.79, teto 27 25.79 | 11 s
+alvo 337: 3684 candidatos (teto por alvo 26) | 1e-05: cheio 21.96, teto 27 21.96 | 1e-06: cheio 24.18, teto 27 24.72 | 10 s
+alvo 338: 3653 candidatos (teto por alvo 30) | 1e-05: cheio 21.11, teto 27 21.11 | 1e-06: cheio 26.23, teto 27 26.49 | 11 s
+alvo 339: 3502 candidatos (teto por alvo 27) | 1e-05: cheio 20.51, teto 27 20.51 | 1e-06: cheio 23.76, teto 27 23.76 | 11 s
+alvo 340: 3627 candidatos (teto por alvo 26) | 1e-05: cheio 21.37, teto 27 21.37 | 1e-06: cheio 24.57, teto 27 24.57 | 11 s
+alvo 341: 3546 candidatos (teto por alvo 26) | 1e-05: cheio 23.00, teto 27 23.00 | 1e-06: cheio 24.82, teto 27 24.82 | 11 s
+alvo 342: 3450 candidatos (teto por alvo 26) | 1e-05: cheio 19.22, teto 27 19.22 | 1e-06: cheio 23.96, teto 27 24.03 | 11 s
+alvo 343: 3553 candidatos (teto por alvo 29) | 1e-05: cheio 18.80, teto 27 18.80 | 1e-06: cheio 25.35, teto 27 inviavel | 12 s
+alvo 344: 3498 candidatos (teto por alvo 28) | 1e-05: cheio 22.95, teto 27 22.95 | 1e-06: cheio 25.30, teto 27 25.30 | 11 s
+alvo 345: 3510 candidatos (teto por alvo 29) | 1e-05: cheio 20.83, teto 27 20.83 | 1e-06: cheio 22.87, teto 27 22.87 | 12 s
+alvo 346: 3502 candidatos (teto por alvo 28) | 1e-05: cheio 22.75, teto 27 22.75 | 1e-06: cheio 26.00, teto 27 26.00 | 13 s
+alvo 347: 3533 candidatos (teto por alvo 25) | 1e-05: cheio 20.50, teto 27 20.50 | 1e-06: cheio 24.80, teto 27 24.80 | 15 s
+alvo 348: 3602 candidatos (teto por alvo 24) | 1e-05: cheio 22.00, teto 27 22.00 | 1e-06: cheio 23.88, teto 27 23.88 | 14 s
+alvo 349: 3494 candidatos (teto por alvo 26) | 1e-05: cheio 22.05, teto 27 22.05 | 1e-06: cheio 23.77, teto 27 23.86 | 12 s
+
+=== RESUMO (modo A, 40 alvos, 476 s) ===
+eps efetivo 1e-05:
+  teto 32   viavel 40/40 | custo medio  21.51 | inflacao x: media  0.00% max  0.00% | R_teto (40 pares): media 0.767 mediana 0.777 [min 0.637, max 0.859]
+  teto 30   viavel 40/40 | custo medio  21.51 | inflacao x: media -0.00% max  0.00% | R_teto (40 pares): media 0.767 mediana 0.777 [min 0.637, max 0.859]
+  teto 29   viavel 40/40 | custo medio  21.51 | inflacao x: media  0.00% max  0.00% | R_teto (40 pares): media 0.767 mediana 0.777 [min 0.637, max 0.859]
+  teto 28   viavel 40/40 | custo medio  21.51 | inflacao x: media  0.00% max  0.00% | R_teto (40 pares): media 0.767 mediana 0.777 [min 0.637, max 0.859]
+  teto 27   viavel 40/40 | custo medio  21.51 | inflacao x: media  0.00% max  0.02% | R_teto (40 pares): media 0.767 mediana 0.777 [min 0.637, max 0.859]
+  teto 26   viavel 40/40 | custo medio  21.51 | inflacao x: media  0.00% max  0.02% | R_teto (40 pares): media 0.767 mediana 0.777 [min 0.637, max 0.859]
+  teto alvo viavel 39/40 | custo medio  21.52 | inflacao x: media  0.00% max  0.16% | R_teto (39 pares): media 0.766 mediana 0.776 [min 0.637, max 0.859]
+eps efetivo 1e-06:
+  teto 32   viavel 40/40 | custo medio  24.86 | inflacao x: media  0.00% max  0.00% | R_teto (40 pares): media 0.752 mediana 0.750 [min 0.654, max 0.862]
+  teto 30   viavel 40/40 | custo medio  24.86 | inflacao x: media  0.00% max  0.00% | R_teto (40 pares): media 0.752 mediana 0.750 [min 0.654, max 0.862]
+  teto 29   viavel 40/40 | custo medio  24.86 | inflacao x: media  0.00% max  0.00% | R_teto (40 pares): media 0.752 mediana 0.750 [min 0.654, max 0.862]
+  teto 28   viavel 40/40 | custo medio  24.88 | inflacao x: media  0.07% max  1.04% | R_teto (40 pares): media 0.752 mediana 0.749 [min 0.654, max 0.862]
+  teto 27   viavel 33/40 | custo medio  24.71 | inflacao x: media  0.20% max  2.21% | R_teto (33 pares): media 0.755 mediana 0.755 [min 0.645, max 0.862]
+  teto 26   viavel 18/40 | custo medio  24.33 | inflacao x: media  0.24% max  3.43% | R_teto (18 pares): media 0.775 mediana 0.778 [min 0.696, max 0.862]
+  teto alvo viavel 30/40 | custo medio  25.00 | inflacao x: media  0.17% max  3.43% | R_teto (30 pares): media 0.740 mediana 0.736 [min 0.654, max 0.862]
+
+controles: OK
+VEREDITO TETO (eps 1e-06, teto 27): INCONCLUSIVO, mistura T com teto viavel em 33/40 (< 90%); ler a curva
+tabela em: ./logs/sonda_M_A_soT_teto_20261120_111933.csv

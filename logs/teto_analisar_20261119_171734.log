@@ -1,0 +1,45 @@
+# log: ./logs/teto_analisar_20261119_171734.log
+# comando: teto_rodar.py analisar --saida teto_previa.csv
+# inicio: 2026-11-19 17:17:34 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+Linhas rejeitadas na reconferencia independente: 0
+
+=== eps = 1e-05 | n = 5 alvos completos ===
+  Folga do padrao sobre o melhor achado: 1.74%  (IC95% bootstrap 0.57% a 2.87%)
+  Alvos em que o padrao NAO e o melhor: 3/5
+  config    | custo medio | recupera da folga | s/alvo | tempo/pad
+  pad:pad   |       34.40 |                0% |    0.9 |      1.0x
+  4:pad     |       34.40 |                0% |    0.8 |      0.9x
+  8:pad     |       34.20 |               33% |    0.8 |      0.9x
+  2:5000    |       34.20 |               33% |    4.5 |      5.0x
+  8:5000    |       34.00 |               67% |    5.2 |      5.8x
+  8:60000   |       34.00 |               67% |   60.5 |     67.5x
+  Mecanismo (alvos melhorados = 3): melhor mais fundo em 2, com menos sqrtT em 2
+
+=== eps = 1e-06 | n = 5 alvos completos ===
+  Folga do padrao sobre o melhor achado: 1.46%  (IC95% bootstrap 0.00% a 4.39%)
+  Alvos em que o padrao NAO e o melhor: 1/5
+  config    | custo medio | recupera da folga | s/alvo | tempo/pad
+  pad:pad   |       41.20 |                0% |    2.3 |      1.0x
+  4:pad     |       41.20 |                0% |    2.4 |      1.0x
+  8:pad     |       41.20 |                0% |    2.3 |      1.0x
+  2:5000    |       41.20 |                0% |    5.8 |      2.6x
+  8:5000    |       42.00 |             -133% |    5.8 |      2.5x
+  8:60000   |       40.60 |              100% |   60.9 |     26.9x
+  Mecanismo (alvos melhorados = 1): melhor mais fundo em 0, com menos sqrtT em 1
+
+=== eps = 1e-07 | n = 5 alvos completos ===
+  Folga do padrao sobre o melhor achado: 6.06%  (IC95% bootstrap 1.94% a 10.37%)
+  Alvos em que o padrao NAO e o melhor: 4/5
+  config    | custo medio | recupera da folga | s/alvo | tempo/pad
+  pad:pad   |       52.80 |                0% |    6.2 |      1.0x
+  4:pad     |       52.60 |                6% |    6.0 |      1.0x
+  8:pad     |       53.60 |              -25% |    6.4 |      1.0x
+  2:5000    |       54.60 |              -56% |    9.5 |      1.5x
+  8:5000    |       53.00 |               -6% |    9.0 |      1.4x
+  8:60000   |       49.60 |              100% |   64.2 |     10.3x
+  Mecanismo (alvos melhorados = 4): melhor mais fundo em 1, com menos sqrtT em 4
+
+=== VEREDITO (regras fixadas no topo do script) ===
+  ATENCAO: so 5 alvos em 1e-7 (rodada parcial); veredito provisorio.
+  CORTE 1 passou (6.06%; IC inferior 1.94%) e nenhum botao barato fecha a folga:
+  HA ESPACO para uma heuristica nova (Etapa 1). Pre-registrar antes de implementar.

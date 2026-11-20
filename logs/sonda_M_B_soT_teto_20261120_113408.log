@@ -1,0 +1,44 @@
+# log: ./logs/sonda_M_B_soT_teto_20261120_113408.log
+# comando: sonda_M_soT_teto.py B --sqrt logs/sonda_M_B_20261120_043031.csv --soT logs/sonda_M_B_soT_20261120_071405.csv
+# inicio: 2026-11-20 11:34:08 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+tabela so-T: cobertura 38, raio 3e-04, cobertura sqrtT 27 | tetos [38, 37, 36, 35, 34], principal 35 | 25 s
+alvo 310: 229 candidatos (teto por alvo 36) | 1e-07: cheio 32.80, teto 35 32.80 | 1e-08: cheio 35.03, teto 35 inviavel | 16 s
+alvo 311: 220 candidatos (teto por alvo 33) | 1e-07: cheio 32.07, teto 35 32.07 | 1e-08: cheio 34.73, teto 35 inviavel | 16 s
+alvo 312: 215 candidatos (teto por alvo 35) | 1e-07: cheio 31.98, teto 35 32.36 | 1e-08: cheio 35.44, teto 35 inviavel | 17 s
+alvo 313: 245 candidatos (teto por alvo 34) | 1e-07: cheio 30.18, teto 35 30.18 | 1e-08: cheio 34.89, teto 35 inviavel | 17 s
+alvo 314: 235 candidatos (teto por alvo 34) | 1e-07: cheio 32.46, teto 35 32.46 | 1e-08: cheio 34.40, teto 35 inviavel | 16 s
+alvo 315: 237 candidatos (teto por alvo 36) | 1e-07: cheio 31.38, teto 35 31.38 | 1e-08: cheio inviavel, teto 35 inviavel | 16 s
+alvo 316: 236 candidatos (teto por alvo 33) | 1e-07: cheio 31.47, teto 35 31.47 | 1e-08: cheio 35.26, teto 35 inviavel | 15 s
+alvo 317: 248 candidatos (teto por alvo 29) | 1e-07: cheio 31.56, teto 35 31.56 | 1e-08: cheio 32.68, teto 35 inviavel | 16 s
+alvo 318: 195 candidatos (teto por alvo 36) | 1e-07: cheio 30.31, teto 35 30.31 | 1e-08: cheio inviavel, teto 35 inviavel | 15 s
+alvo 319: 213 candidatos (teto por alvo 40) | 1e-07: cheio 33.22, teto 35 33.24 | 1e-08: cheio 36.61, teto 35 inviavel | 18 s
+alvo 320: 224 candidatos (teto por alvo 35) | 1e-07: cheio 31.04, teto 35 31.04 | 1e-08: cheio 35.15, teto 35 inviavel | 25 s
+alvo 321: 236 candidatos (teto por alvo 38) | 1e-07: cheio 31.03, teto 35 31.03 | 1e-08: cheio 35.50, teto 35 inviavel | 17 s
+alvo 322: 223 candidatos (teto por alvo 37) | 1e-07: cheio 30.20, teto 35 30.20 | 1e-08: cheio 34.34, teto 35 inviavel | 18 s
+alvo 323: 219 candidatos (teto por alvo 31) | 1e-07: cheio 30.93, teto 35 30.93 | 1e-08: cheio 33.33, teto 35 inviavel | 17 s
+alvo 324: 221 candidatos (teto por alvo 34) | 1e-07: cheio 31.74, teto 35 31.74 | 1e-08: cheio inviavel, teto 35 inviavel | 17 s
+alvo 325: 218 candidatos (teto por alvo 38) | 1e-07: cheio 31.11, teto 35 31.11 | 1e-08: cheio 36.40, teto 35 inviavel | 16 s
+alvo 326: 255 candidatos (teto por alvo 32) | 1e-07: cheio 31.79, teto 35 31.79 | 1e-08: cheio 35.14, teto 35 inviavel | 17 s
+alvo 327: 231 candidatos (teto por alvo 35) | 1e-07: cheio 32.72, teto 35 32.72 | 1e-08: cheio 33.70, teto 35 33.71 | 16 s
+alvo 328: 217 candidatos (teto por alvo 37) | 1e-07: cheio 31.69, teto 35 31.69 | 1e-08: cheio 35.99, teto 35 inviavel | 21 s
+alvo 329: 207 candidatos (teto por alvo 37) | 1e-07: cheio 32.30, teto 35 32.31 | 1e-08: cheio inviavel, teto 35 inviavel | 16 s
+
+=== RESUMO (modo B, 20 alvos, 367 s) ===
+eps efetivo 1e-07:
+  teto 38   viavel 20/20 | custo medio  31.60 | inflacao x: media  0.00% max  0.00% | R_teto (20 pares): media 0.751 mediana 0.756 [min 0.673, max 0.801]
+  teto 37   viavel 20/20 | custo medio  31.60 | inflacao x: media -0.00% max  0.00% | R_teto (20 pares): media 0.751 mediana 0.756 [min 0.673, max 0.801]
+  teto 36   viavel 20/20 | custo medio  31.60 | inflacao x: media  0.00% max  0.00% | R_teto (20 pares): media 0.751 mediana 0.756 [min 0.673, max 0.801]
+  teto 35   viavel 20/20 | custo medio  31.62 | inflacao x: media  0.06% max  1.18% | R_teto (20 pares): media 0.750 mediana 0.756 [min 0.673, max 0.801]
+  teto 34   viavel 19/20 | custo medio  31.73 | inflacao x: media  0.67% max  4.67% | R_teto (19 pares): media 0.749 mediana 0.757 [min 0.660, max 0.801]
+  teto alvo viavel 17/20 | custo medio  31.68 | inflacao x: media  0.17% max  1.18% | R_teto (17 pares): media 0.746 mediana 0.753 [min 0.673, max 0.801]
+eps efetivo 1e-08:
+  teto 38   viavel 16/20 | custo medio  34.91 | inflacao x: media  0.00% max  0.00% | R_teto (9 pares): media 0.747 mediana 0.750 [min 0.683, max 0.808]
+  teto 37   viavel 15/20 | custo medio  34.87 | inflacao x: media  0.22% max  3.27% | R_teto (9 pares): media 0.744 mediana 0.750 [min 0.683, max 0.782]
+  teto 36   viavel  6/20 | custo medio  34.60 | inflacao x: media  0.63% max  3.73% | R_teto (4 pares): media 0.764 mediana 0.764 [min 0.748, max 0.779]
+  teto 35   viavel  1/20 | custo medio  33.71 | inflacao x: media  0.04% max  0.04% | R_teto (1 pares): media 0.770 mediana 0.770 [min 0.770, max 0.770]
+  teto 34   viavel  0/20 | custo medio    nan | inflacao x: media   nan% max   nan% | R_teto (0 pares): media nan mediana nan [min nan, max nan]
+  teto alvo viavel  6/20 | custo medio  35.43 | inflacao x: media  0.01% max  0.04% | R_teto (3 pares): media 0.720 mediana 0.708 [min 0.683, max 0.770]
+
+controles: OK
+VEREDITO TETO (eps 1e-07, teto 35): x = 0.06% (corte 1%), R_teto = 0.750 (corte 0,70), viavel 20/20 -> teto NAO pesa: 'sem sinergia' mantido como medido
+tabela em: ./logs/sonda_M_B_soT_teto_20261120_113408.csv

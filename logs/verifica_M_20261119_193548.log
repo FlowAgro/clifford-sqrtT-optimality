@@ -1,0 +1,158 @@
+# log: ./logs/verifica_M_20261119_193548.log
+# comando: verifica_M.py sonda_M_A_20261119_192920.csv sonda_M_B_20261119_193313.csv
+# inicio: 2026-11-19 19:35:48 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+
+== sonda_M_A_20261119_192920.csv: 80 linhas ==
+alvo 310 eps 1e-05: custo 17.115 | diamante em [8.609e-06, 1.000e-05] | aperto 0.861 | controle 1.0000
+alvo 310 eps 1e-06: custo 17.799 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 311 eps 1e-05: custo 16.644 | diamante em [8.028e-06, 1.000e-05] | aperto 0.803 | controle 1.0000
+alvo 311 eps 1e-06: custo 18.743 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 312 eps 1e-05: custo 16.981 | diamante em [7.728e-06, 1.000e-05] | aperto 0.773 | controle 1.0000
+alvo 312 eps 1e-06: custo 18.102 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 313 eps 1e-05: custo 15.668 | diamante em [7.757e-06, 1.000e-05] | aperto 0.776 | controle 1.0000
+alvo 313 eps 1e-06: custo 18.817 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 314 eps 1e-05: custo 15.770 | diamante em [8.277e-06, 1.000e-05] | aperto 0.828 | controle 1.0000
+alvo 314 eps 1e-06: custo 17.929 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 315 eps 1e-05: custo 16.139 | diamante em [9.050e-06, 1.000e-05] | aperto 0.905 | controle 1.0000
+alvo 315 eps 1e-06: custo 16.650 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 316 eps 1e-05: custo 16.799 | diamante em [8.340e-06, 1.000e-05] | aperto 0.834 | controle 1.0000
+alvo 316 eps 1e-06: custo 18.345 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 317 eps 1e-05: custo 16.841 | diamante em [7.684e-06, 1.000e-05] | aperto 0.768 | controle 1.0000
+alvo 317 eps 1e-06: custo 17.931 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 318 eps 1e-05: custo 17.483 | diamante em [8.330e-06, 1.000e-05] | aperto 0.833 | controle 1.0000
+alvo 318 eps 1e-06: custo 20.170 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 319 eps 1e-05: custo 16.829 | diamante em [8.447e-06, 1.000e-05] | aperto 0.845 | controle 1.0000
+alvo 319 eps 1e-06: custo 18.008 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 320 eps 1e-05: custo 16.629 | diamante em [8.098e-06, 1.000e-05] | aperto 0.810 | controle 1.0000
+alvo 320 eps 1e-06: custo 18.314 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 321 eps 1e-05: custo 15.925 | diamante em [7.653e-06, 1.000e-05] | aperto 0.765 | controle 1.0000
+alvo 321 eps 1e-06: custo 18.793 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 322 eps 1e-05: custo 18.080 | diamante em [8.694e-06, 1.000e-05] | aperto 0.869 | controle 1.0000
+alvo 322 eps 1e-06: custo 20.199 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 323 eps 1e-05: custo 14.512 | diamante em [7.714e-06, 1.000e-05] | aperto 0.771 | controle 1.0000
+alvo 323 eps 1e-06: custo 18.690 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 324 eps 1e-05: custo 17.372 | diamante em [7.643e-06, 1.000e-05] | aperto 0.764 | controle 1.0000
+alvo 324 eps 1e-06: custo 18.819 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 325 eps 1e-05: custo 16.832 | diamante em [7.619e-06, 1.000e-05] | aperto 0.762 | controle 1.0000
+alvo 325 eps 1e-06: custo 19.831 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000
+alvo 326 eps 1e-05: custo 15.813 | diamante em [7.505e-06, 1.000e-05] | aperto 0.751 | controle 1.0000
+alvo 326 eps 1e-06: custo 18.334 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 327 eps 1e-05: custo 16.680 | diamante em [8.217e-06, 1.000e-05] | aperto 0.822 | controle 1.0000
+alvo 327 eps 1e-06: custo 18.223 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 328 eps 1e-05: custo 16.447 | diamante em [8.041e-06, 1.000e-05] | aperto 0.804 | controle 1.0000
+alvo 328 eps 1e-06: custo 17.132 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 329 eps 1e-05: custo 15.405 | diamante em [7.754e-06, 1.000e-05] | aperto 0.775 | controle 1.0000
+alvo 329 eps 1e-06: custo 18.862 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 330 eps 1e-05: custo 18.000 | diamante em [2.292e-06, 2.292e-06] | aperto 1.000 | controle 1.0000
+alvo 330 eps 1e-06: custo 19.394 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 331 eps 1e-05: custo 17.310 | diamante em [8.001e-06, 1.000e-05] | aperto 0.800 | controle 1.0000
+alvo 331 eps 1e-06: custo 19.339 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 332 eps 1e-05: custo 15.414 | diamante em [7.823e-06, 1.000e-05] | aperto 0.782 | controle 1.0000
+alvo 332 eps 1e-06: custo 20.969 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 333 eps 1e-05: custo 16.939 | diamante em [7.690e-06, 1.000e-05] | aperto 0.769 | controle 1.0000
+alvo 333 eps 1e-06: custo 18.427 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 334 eps 1e-05: custo 16.985 | diamante em [8.081e-06, 1.000e-05] | aperto 0.808 | controle 1.0000
+alvo 334 eps 1e-06: custo 18.217 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 335 eps 1e-05: custo 16.324 | diamante em [7.667e-06, 1.000e-05] | aperto 0.767 | controle 1.0000
+alvo 335 eps 1e-06: custo 18.434 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000
+alvo 336 eps 1e-05: custo 16.192 | diamante em [7.998e-06, 1.000e-05] | aperto 0.800 | controle 1.0000
+alvo 336 eps 1e-06: custo 18.340 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 337 eps 1e-05: custo 15.833 | diamante em [7.576e-06, 1.000e-05] | aperto 0.758 | controle 1.0000
+alvo 337 eps 1e-06: custo 17.247 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 338 eps 1e-05: custo 16.005 | diamante em [7.637e-06, 1.000e-05] | aperto 0.764 | controle 1.0000
+alvo 338 eps 1e-06: custo 18.141 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 339 eps 1e-05: custo 16.712 | diamante em [7.886e-06, 1.000e-05] | aperto 0.789 | controle 1.0000
+alvo 339 eps 1e-06: custo 18.727 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 340 eps 1e-05: custo 16.640 | diamante em [8.123e-06, 1.000e-05] | aperto 0.812 | controle 1.0000
+alvo 340 eps 1e-06: custo 19.024 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 341 eps 1e-05: custo 16.971 | diamante em [7.212e-06, 1.000e-05] | aperto 0.721 | controle 1.0000
+alvo 341 eps 1e-06: custo 18.596 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 342 eps 1e-05: custo 15.243 | diamante em [7.430e-06, 1.000e-05] | aperto 0.743 | controle 1.0000
+alvo 342 eps 1e-06: custo 19.566 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000
+alvo 343 eps 1e-05: custo 16.150 | diamante em [7.675e-06, 1.000e-05] | aperto 0.767 | controle 1.0000
+alvo 343 eps 1e-06: custo 19.043 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 344 eps 1e-05: custo 15.101 | diamante em [7.568e-06, 1.000e-05] | aperto 0.757 | controle 1.0000
+alvo 344 eps 1e-06: custo 19.112 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 345 eps 1e-05: custo 16.167 | diamante em [7.507e-06, 1.000e-05] | aperto 0.751 | controle 1.0000
+alvo 345 eps 1e-06: custo 18.397 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 346 eps 1e-05: custo 16.725 | diamante em [8.038e-06, 1.000e-05] | aperto 0.804 | controle 1.0000
+alvo 346 eps 1e-06: custo 19.143 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 347 eps 1e-05: custo 15.797 | diamante em [8.065e-06, 1.000e-05] | aperto 0.807 | controle 1.0000
+alvo 347 eps 1e-06: custo 19.497 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 348 eps 1e-05: custo 17.811 | diamante em [7.755e-06, 1.000e-05] | aperto 0.776 | controle 1.0000
+alvo 348 eps 1e-06: custo 19.548 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+alvo 349 eps 1e-05: custo 15.556 | diamante em [7.772e-06, 1.000e-05] | aperto 0.777 | controle 1.0000
+alvo 349 eps 1e-06: custo 17.791 | diamante em [1.000e-06, 1.000e-06] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-06 > eps
+
+== sonda_M_B_20261119_193313.csv: 40 linhas ==
+alvo 310 eps 1e-07: custo 22.069 | diamante em [7.635e-08, 1.000e-07] | aperto 0.764 | controle 1.0000
+alvo 311 eps 1e-07: custo 24.215 | diamante em [7.762e-08, 1.000e-07] | aperto 0.776 | controle 1.0000
+alvo 312 eps 1e-07: custo 24.784 | diamante em [7.595e-08, 1.000e-07] | aperto 0.759 | controle 1.0000
+alvo 313 eps 1e-07: custo 23.681 | diamante em [7.567e-08, 1.000e-07] | aperto 0.757 | controle 1.0000
+alvo 313 eps 1e-08: custo 26.251 | diamante em [1.000e-08, 1.000e-08] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-08 > eps
+alvo 314 eps 1e-07: custo 24.443 | diamante em [7.958e-08, 1.000e-07] | aperto 0.796 | controle 1.0000
+alvo 314 eps 1e-08: custo 26.099 | diamante em [1.000e-08, 1.000e-08] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-08 > eps
+alvo 315 eps 1e-07: custo 23.695 | diamante em [7.510e-08, 1.000e-07] | aperto 0.751 | controle 1.0000
+alvo 316 eps 1e-07: custo 23.476 | diamante em [8.001e-08, 1.000e-07] | aperto 0.800 | controle 1.0000
+alvo 316 eps 1e-08: custo 26.438 | diamante em [1.000e-08, 1.000e-08] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-08 > eps
+alvo 317 eps 1e-07: custo 24.017 | diamante em [8.433e-08, 1.000e-07] | aperto 0.843 | controle 1.0000
+alvo 318 eps 1e-07: custo 24.288 | diamante em [7.543e-08, 1.000e-07] | aperto 0.754 | controle 1.0000
+alvo 318 eps 1e-08: custo 26.565 | diamante em [1.000e-08, 1.000e-08] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-08 > eps
+alvo 319 eps 1e-07: custo 22.882 | diamante em [7.935e-08, 1.000e-07] | aperto 0.794 | controle 1.0000
+alvo 320 eps 1e-07: custo 24.446 | diamante em [7.996e-08, 1.000e-07] | aperto 0.800 | controle 1.0000
+alvo 320 eps 1e-08: custo 26.300 | diamante em [1.000e-08, 1.000e-08] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-08 > eps
+alvo 321 eps 1e-07: custo 23.494 | diamante em [8.535e-08, 1.000e-07] | aperto 0.854 | controle 1.0000
+alvo 321 eps 1e-08: custo 24.236 | diamante em [1.000e-08, 1.000e-08] | aperto 1.000 | controle 1.0000
+alvo 322 eps 1e-07: custo 24.061 | diamante em [8.628e-08, 1.000e-07] | aperto 0.863 | controle 1.0000
+alvo 323 eps 1e-07: custo 23.930 | diamante em [7.841e-08, 1.000e-07] | aperto 0.784 | controle 1.0000
+alvo 323 eps 1e-08: custo 26.927 | diamante em [1.000e-08, 1.000e-08] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-08 > eps
+alvo 324 eps 1e-07: custo 23.285 | diamante em [7.616e-08, 1.000e-07] | aperto 0.762 | controle 1.0000
+alvo 324 eps 1e-08: custo 26.578 | diamante em [1.000e-08, 1.000e-08] | aperto 1.000 | controle 1.0000
+alvo 325 eps 1e-07: custo 24.099 | diamante em [7.656e-08, 1.000e-07] | aperto 0.766 | controle 1.0000
+alvo 326 eps 1e-07: custo 24.617 | diamante em [7.917e-08, 1.000e-07] | aperto 0.792 | controle 1.0000
+alvo 326 eps 1e-08: custo 26.040 | diamante em [1.000e-08, 1.000e-08] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-08 > eps
+alvo 327 eps 1e-07: custo 22.313 | diamante em [7.836e-08, 1.000e-07] | aperto 0.784 | controle 1.0000
+alvo 327 eps 1e-08: custo 25.956 | diamante em [1.000e-08, 1.000e-08] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-08 > eps
+alvo 328 eps 1e-07: custo 23.331 | diamante em [7.935e-08, 1.000e-07] | aperto 0.794 | controle 1.0000
+alvo 328 eps 1e-08: custo 25.473 | diamante em [1.000e-08, 1.000e-08] | aperto 1.000 | controle 1.0000 | FALHA: COTA INFERIOR 1.000e-08 > eps
+alvo 329 eps 1e-07: custo 22.910 | diamante em [7.789e-08, 1.000e-07] | aperto 0.779 | controle 1.0000
+
+=== RESUMO ===
+controle de convencao (circuito publicado reproduz 'distance' e 'cost'): 60 alvos ok
+misturas verificadas: 111
+modo A eps 1e-06: aperto (inferior/superior) mediana 1.000, min 1.000, max 1.000 (n = 40)
+modo A eps 1e-05: aperto (inferior/superior) mediana 0.780, min 0.721, max 1.000 (n = 40)
+modo B eps 1e-08: aperto (inferior/superior) mediana 1.000, min 1.000, max 1.000 (n = 11)
+modo B eps 1e-07: aperto (inferior/superior) mediana 0.784, min 0.751, max 0.863 (n = 20)
+
+VEREDITO: NAO VERIFICADA (74 falhas)
+   alvo 310 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 311 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 312 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 313 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 314 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 315 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 316 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 317 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 318 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 319 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 320 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 321 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 322 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 323 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 324 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 326 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 327 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 328 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 329 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 330 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 331 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 332 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 333 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 334 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 336 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 337 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 338 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 339 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 340 eps 1e-06: COTA INFERIOR 1.000e-06 > eps
+   alvo 341 eps 1e-06: COTA INFERIOR 1.000e-06 > eps

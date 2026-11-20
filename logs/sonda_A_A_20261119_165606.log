@@ -1,0 +1,55 @@
+# log: ./logs/sonda_A_A_20261119_165606.log
+# comando: sonda_A_perfil_q.py A --n 40
+# inicio: 2026-11-19 16:56:06 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+linha de base Clifford+T: cyclosynth sqrt_t=False
+tabela pronta em 0 s: E = 155596 palavras, D x Clifford = 1439520 pontos; cobertura certificada: custo <= 21
+alvo 300: cyclosynth 20.0 | base C+T 25 | OPT 20 (q=2, N=34, lde=26) | perfil q1:21:N39:lde26 q2:20:N34:lde26 q3:20:N31:lde22 q4:20:N28:lde16 q5:20:N25:lde15
+alvo 301: cyclosynth 17.0 | base C+T 23 | OPT 17 (q=2, N=28, lde=18) | perfil q1:21:N39:lde27 q2:17:N28:lde18 q3:19:N29:lde15 q5:19:N23:lde13
+alvo 302: cyclosynth 17.0 | base C+T 25 | OPT 17 (q=2, N=28, lde=21) | perfil q2:17:N28:lde21 q3:21:N33:lde20 q4:21:N30:lde18 q5:21:N27:lde15
+alvo 303: cyclosynth 19.0 | base C+T 26 | OPT 19 (q=3, N=29, lde=17) | perfil q1:21:N39:lde28 q3:19:N29:lde17 q4:21:N30:lde27 q5:21:N27:lde13
+alvo 304: cyclosynth 18.0 | base C+T 26 | OPT 18 (q=2, N=30, lde=16) | perfil q2:18:N30:lde16 q3:18:N27:lde22 q4:20:N28:lde16 q5:20:N25:lde13
+alvo 305: cyclosynth 20.0 | base C+T 24 | OPT 19 (q=1, N=35, lde=25) | perfil q1:19:N35:lde25 q3:20:N31:lde24
+alvo 306: cyclosynth 18.0 | base C+T 24 | OPT 18 (q=2, N=30, lde=20) | perfil q2:18:N30:lde20 q4:20:N28:lde14
+alvo 307: cyclosynth 19.0 | base C+T 24 | OPT 19 (q=2, N=32, lde=19) | perfil q2:19:N32:lde19 q4:21:N30:lde19
+alvo 308: cyclosynth 20.0 | base C+T 24 | OPT 20 (q=3, N=31, lde=19) | perfil q1:21:N39:lde24 q2:21:N36:lde20 q3:20:N31:lde19
+alvo 309: cyclosynth 18.0 | base C+T 26 | OPT 18 (q=3, N=27, lde=22) | perfil q2:19:N32:lde18 q3:18:N27:lde22 q4:21:N30:lde14
+alvo 310: cyclosynth 17.0 | base C+T 23 | OPT 17 (q=3, N=25, lde=16) | perfil q1:21:N39:lde26 q2:20:N34:lde25 q3:17:N25:lde16 q5:19:N23:lde13
+alvo 311: cyclosynth 19.0 | base C+T 25 | OPT 19 (q=4, N=26, lde=19) | perfil q1:21:N39:lde29 q2:20:N34:lde26 q3:21:N33:lde21 q4:19:N26:lde19 q5:21:N27:lde16
+alvo 312: cyclosynth 18.0 | base C+T 26 | OPT 18 (q=2, N=30, lde=24) | perfil q1:21:N39:lde33 q2:18:N30:lde24 q3:20:N31:lde16 q4:18:N24:lde14 q5:20:N25:lde15
+alvo 313: cyclosynth 19.0 | base C+T 24 | OPT 19 (q=3, N=29, lde=15) | perfil q3:19:N29:lde15
+alvo 314: cyclosynth 17.0 | base C+T 26 | OPT 17 (q=3, N=25, lde=18) | perfil q3:17:N25:lde18 q4:21:N30:lde19
+alvo 315: cyclosynth 16.0 | base C+T 24 | OPT 16 (q=3, N=23, lde=13) | perfil q1:17:N31:lde19 q2:19:N32:lde18 q3:16:N23:lde13 q4:20:N28:lde16
+alvo 316: cyclosynth 17.0 | base C+T 25 | OPT 17 (q=3, N=25, lde=17) | perfil q1:21:N39:lde27 q2:21:N36:lde23 q3:17:N25:lde17 q4:20:N28:lde15
+alvo 317: cyclosynth 18.0 | base C+T 22 | OPT 18 (q=1, N=33, lde=26) | perfil q1:18:N33:lde26 q2:19:N32:lde21 q3:18:N27:lde19 q4:20:N28:lde15
+alvo 318: cyclosynth 21.0 | base C+T 26 | OPT 21 (q=2, N=36, lde=27) | perfil q2:21:N36:lde27 q3:21:N33:lde24 q4:21:N30:lde18 q5:21:N27:lde16
+alvo 319: cyclosynth 19.0 | base C+T 26 | OPT 19 (q=2, N=32, lde=18) | perfil q2:19:N32:lde18 q3:20:N31:lde17 q4:20:N28:lde16 q5:21:N27:lde18
+alvo 320: cyclosynth 18.0 | base C+T 26 | OPT 18 (q=3, N=27, lde=15) | perfil q2:20:N34:lde24 q3:18:N27:lde15 q4:21:N30:lde21 q5:20:N25:lde13
+alvo 321: cyclosynth 20.0 | base C+T 26 | OPT 20 (q=1, N=37, lde=23) | perfil q1:20:N37:lde23 q2:20:N34:lde20 q3:20:N31:lde21 q4:20:N28:lde14 q5:21:N27:lde16
+alvo 322: cyclosynth 20.0 | base C+T 25 | OPT 20 (q=2, N=34, lde=20) | perfil q2:20:N34:lde20 q3:21:N33:lde21
+alvo 323: cyclosynth 19.0 | base C+T 26 | OPT 19 (q=2, N=32, lde=18) | perfil q2:19:N32:lde18 q3:21:N33:lde23 q4:21:N30:lde15 q5:20:N25:lde13
+alvo 324: cyclosynth 19.0 | base C+T 26 | OPT 19 (q=2, N=32, lde=24) | perfil q1:20:N37:lde24 q2:19:N32:lde24 q3:21:N33:lde22 q4:21:N30:lde20 q5:20:N25:lde13
+alvo 325: cyclosynth 20.0 | base C+T 24 | OPT 20 (q=2, N=34, lde=27) | perfil q2:20:N34:lde27 q3:21:N33:lde23 q5:21:N27:lde14
+alvo 326: cyclosynth 19.0 | base C+T 27 | OPT 19 (q=2, N=32, lde=22) | perfil q1:20:N37:lde28 q2:19:N32:lde22 q3:19:N29:lde19 q4:20:N28:lde14 q5:20:N25:lde16
+alvo 327: cyclosynth 19.0 | base C+T 25 | OPT 19 (q=2, N=32, lde=22) | perfil q1:21:N39:lde27 q2:19:N32:lde22 q3:21:N33:lde22 q4:20:N28:lde16 q5:21:N27:lde15
+alvo 328: cyclosynth 17.0 | base C+T 25 | OPT 17 (q=3, N=25, lde=17) | perfil q2:20:N34:lde25 q3:17:N25:lde17 q4:20:N28:lde14
+alvo 329: cyclosynth 19.0 | base C+T 23 | OPT 19 (q=2, N=32, lde=27) | perfil q1:21:N39:lde25 q2:19:N32:lde27 q3:20:N31:lde19 q4:21:N30:lde19
+alvo 330: cyclosynth 18.0 | base C+T 25 | OPT 18 (q=3, N=27, lde=16) | perfil q1:21:N39:lde26 q3:18:N27:lde16
+alvo 331: cyclosynth 19.0 | base C+T 25 | OPT 19 (q=3, N=29, lde=18) | perfil q3:19:N29:lde18 q4:21:N30:lde18
+alvo 332: cyclosynth 21.0 | base C+T 25 | OPT 21 (q=3, N=33, lde=18) | perfil q3:21:N33:lde18
+alvo 333: cyclosynth 18.0 | base C+T 26 | OPT 18 (q=4, N=24, lde=15) | perfil q1:20:N37:lde26 q2:20:N34:lde24 q3:20:N31:lde24 q4:18:N24:lde15
+alvo 334: cyclosynth 18.0 | base C+T 20 | OPT 18 (q=4, N=24, lde=16) | perfil q0:20:N40:lde29 q1:21:N39:lde28 q2:21:N36:lde25 q3:21:N33:lde25 q4:18:N24:lde16
+alvo 335: cyclosynth 21.0 | base C+T 28 | OPT 21 (q=2, N=36, lde=27) | perfil q2:21:N36:lde27 q3:21:N33:lde19
+alvo 336: cyclosynth 18.0 | base C+T 26 | OPT 18 (q=4, N=24, lde=13) | perfil q2:19:N32:lde23 q3:20:N31:lde21 q4:18:N24:lde13
+alvo 337: cyclosynth 17.0 | base C+T 22 | OPT 17 (q=1, N=31, lde=24) | perfil q1:17:N31:lde24 q3:20:N31:lde20 q4:18:N24:lde16 q5:21:N27:lde16
+alvo 338: cyclosynth 18.0 | base C+T 27 | OPT 18 (q=3, N=27, lde=16) | perfil q1:20:N37:lde25 q2:21:N36:lde26 q3:18:N27:lde16 q5:21:N27:lde16
+alvo 339: cyclosynth 20.0 | base C+T 26 | OPT 20 (q=3, N=31, lde=24) | perfil q1:21:N39:lde21 q2:21:N36:lde19 q3:20:N31:lde24 q4:20:N28:lde22 q5:21:N27:lde17
+
+=== RESUMO (eps = 1e-03, n = 40 alvos, 15 s) ===
+Distribuicao de q no otimo: {1: 4, 2: 17, 3: 15, 4: 4}
+Otimo: N de Forest medio 29.8 | lde da matriz medio 19.9 | OPT medio 18.60 | cyclosynth medio 18.62
+P1: alvos com circuito q=0 na cobertura: 1 | base C+T acima do melhor q=0: 0 (0.0%) -> passou
+    diferenca media base - C(0): 0.00
+P2: otimo com q >= 2 em 36/40 (90%); q in {0,1} mais caro que o otimo por >= 2 em 30/40 (75%) -> passou
+    (None conta como 'mais caro': nenhum circuito com q <= 1 dentro da cobertura)
+VEREDITO A: seguir para o desenho do certificado
+tabela por alvo em: ./logs/sonda_A_A_20261119_165606.csv

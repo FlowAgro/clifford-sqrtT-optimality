@@ -1,0 +1,33 @@
+# log: ./logs/sonda_M_B_soT_20261120_071405.log
+# comando: sonda_M_soT.py B --sqrt logs/sonda_M_B_20261120_043031.csv
+# inicio: 2026-11-20 07:14:05 | python 3.14.4 | Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43
+tabela so-T: 6291454 palavras a esquerda, 1572862 a direita (x24 Cliffords), cobertura 38, raio 3e-04 | 21 s
+C2 grade (tabela grande, cobertura 38): 40r 1239 candidatos, 4r 1239 -> IGUAIS
+alvo 310: 229 candidatos so-T (min 31; min < eps 34; publicado T 34) | 1e-07: 32.80 (suporte 4) | 1e-08: 35.03 (suporte 5) | 24 s
+alvo 311: 220 candidatos so-T (min 29; min < eps 34; publicado T 34) | 1e-07: 32.07 (suporte 4) | 1e-08: 34.73 (suporte 5) | 22 s
+alvo 312: 215 candidatos so-T (min 29; min < eps 35; publicado T 35) | 1e-07: 31.98 (suporte 4) | 1e-08: 35.44 (suporte 5) | 21 s
+alvo 313: 245 candidatos so-T (min 30; min < eps 34; publicado T 34) | 1e-07: 30.18 (suporte 4) | 1e-08: 34.89 (suporte 5) | 22 s
+alvo 314: 235 candidatos so-T (min 32; min < eps 34; publicado T 34) | 1e-07: 32.46 (suporte 4) | 1e-08: 34.40 (suporte 5) | 22 s
+alvo 315: 237 candidatos so-T (min 30; min < eps 35; publicado T 35) | 1e-07: 31.38 (suporte 4) | 1e-08: inviavel | 36 s
+alvo 316: 236 candidatos so-T (min 31; min < eps 35; publicado T 35) | 1e-07: 31.47 (suporte 4) | 1e-08: 35.26 (suporte 5) | 27 s
+alvo 317: 248 candidatos so-T (min 31; min < eps 31; publicado T 31) | 1e-07: 31.56 (suporte 4) | 1e-08: 32.68 (suporte 5) | 21 s
+alvo 318: 195 candidatos so-T (min 29; min < eps 36; publicado T 36) | 1e-07: 30.31 (suporte 4) | 1e-08: inviavel | 22 s
+alvo 319: 213 candidatos so-T (min 33; min < eps 36; publicado T 36) | 1e-07: 33.22 (suporte 4) | 1e-08: 36.61 (suporte 5) | 22 s
+alvo 320: 224 candidatos so-T (min 30; min < eps 35; publicado T 35) | 1e-07: 31.04 (suporte 4) | 1e-08: 35.15 (suporte 5) | 21 s
+alvo 321: 236 candidatos so-T (min 28; min < eps 34; publicado T 34) | 1e-07: 31.03 (suporte 4) | 1e-08: 35.50 (suporte 5) | 21 s
+alvo 322: 223 candidatos so-T (min 29; min < eps 34; publicado T 34) | 1e-07: 30.20 (suporte 4) | 1e-08: 34.34 (suporte 5) | 22 s
+alvo 323: 219 candidatos so-T (min 30; min < eps 31; publicado T 31) | 1e-07: 30.93 (suporte 4) | 1e-08: 33.33 (suporte 5) | 21 s
+alvo 324: 221 candidatos so-T (min 31; min < eps 34; publicado T 34) | 1e-07: 31.74 (suporte 4) | 1e-08: inviavel | 23 s
+alvo 325: 218 candidatos so-T (min 29; min < eps 37; publicado T 37) | 1e-07: 31.11 (suporte 4) | 1e-08: 36.40 (suporte 5) | 20 s
+alvo 326: 255 candidatos so-T (min 29; min < eps 33; publicado T 33) | 1e-07: 31.79 (suporte 4) | 1e-08: 35.14 (suporte 5) | 23 s
+alvo 327: 231 candidatos so-T (min 32; min < eps 34; publicado T 34) | 1e-07: 32.72 (suporte 4) | 1e-08: 33.70 (suporte 5) | 21 s
+alvo 328: 217 candidatos so-T (min 29; min < eps 36; publicado T 36) | 1e-07: 31.69 (suporte 4) | 1e-08: 35.99 (suporte 5) | 21 s
+alvo 329: 207 candidatos so-T (min 30; min < eps 37; publicado T 37) | 1e-07: 32.30 (suporte 4) | 1e-08: inviavel | 21 s
+
+=== RESUMO (modo B, 20 alvos, 557 s) ===
+eps efetivo 1e-07: mistura T viavel 20/20 | custo medio mix T 31.60 (publicado T 64.58 -> 0.489) | pares 20: R = mix sqrtT / mix T media 0.751 mediana 0.756 [min 0.673, max 0.801]
+eps efetivo 1e-08: mistura T viavel 16/20 | custo medio mix T 34.91 (publicado T 74.52 -> 0.469) | pares 9: R = mix sqrtT / mix T media 0.747 mediana 0.750 [min 0.683, max 0.808]
+
+controles: OK
+VEREDITO PASSO 3 (eps 1e-07): R = 0.751 (cortes 0,85 / 0,70), T viavel 100% -> vantagem do sqrtT SOBREVIVE
+tabela por alvo em: ./logs/sonda_M_B_soT_20261120_071405.csv

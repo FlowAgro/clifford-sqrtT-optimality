@@ -1,0 +1,42 @@
+# log: .\logs\verifica_M50_20261120_070515.log
+# comando: verifica_M50.py sonda_M_A_soT_20261120_065441.csv
+# inicio: 2026-11-20 07:05:15 | python 3.14.6 | Windows-11-10.0.26300-SP0
+
+== sonda_M_A_soT_20261120_065441.csv ==
+alvo 310 eps 1e-05 | inferior 7.97569235466e-6 | superior 9.99998999996e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.79757003
+alvo 310 eps 1e-06 | inferior 9.99998999996e-7 | superior 9.99999000081e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 311 eps 1e-05 | inferior 7.42590216377e-6 | superior 9.9999900001e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.74259096
+alvo 311 eps 1e-06 | inferior 9.99998999998e-7 | superior 9.99999000222e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 312 eps 1e-05 | inferior 7.37596533865e-6 | superior 9.99999e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.73759727
+alvo 312 eps 1e-06 | inferior 9.99998999999e-7 | superior 9.99999000094e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 313 eps 1e-05 | inferior 7.65986641465e-6 | superior 9.99998999999e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.76598741
+alvo 313 eps 1e-06 | inferior 9.99998999996e-7 | superior 9.99999000071e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 314 eps 1e-05 | inferior 7.57525044827e-6 | superior 9.99999000003e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.7575258
+alvo 314 eps 1e-06 | inferior 9.99998999995e-7 | superior 9.99999000032e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 315 eps 1e-05 | inferior 7.5481887008e-6 | superior 9.99999000007e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.75481962
+alvo 315 eps 1e-06 | inferior 9.99998999982e-7 | superior 9.99999000125e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 316 eps 1e-05 | inferior 8.07897751434e-6 | superior 9.99999000009e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.80789856
+alvo 316 eps 1e-06 | inferior 9.99998999998e-7 | superior 9.99999000074e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 317 eps 1e-05 | inferior 8.34856785647e-6 | superior 9.99999000005e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.83485762
+alvo 317 eps 1e-06 | inferior 9.99998999999e-7 | superior 9.99999000131e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 318 eps 1e-05 | inferior 7.80540141765e-6 | superior 9.99998999991e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.78054092
+alvo 318 eps 1e-06 | inferior 9.99999e-7 | superior 9.99999000098e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 319 eps 1e-05 | inferior 7.9746471745e-6 | superior 9.99999000001e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.79746551
+alvo 319 eps 1e-06 | inferior 9.99998999999e-7 | superior 9.99999000137e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 320 eps 1e-05 | inferior 7.72337282278e-6 | superior 9.99999000007e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.77233805
+alvo 320 eps 1e-06 | inferior 9.99998999999e-7 | superior 9.99999000075e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 321 eps 1e-05 | inferior 7.38406624506e-6 | superior 9.99998999996e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.73840736
+alvo 321 eps 1e-06 | inferior 9.99998999998e-7 | superior 9.99999000164e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 322 eps 1e-05 | inferior 7.9488858495e-6 | superior 9.99999000002e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.79488938
+alvo 322 eps 1e-06 | inferior 9.99998999986e-7 | superior 9.9999900018e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 323 eps 1e-05 | inferior 8.56158198669e-6 | superior 9.99998999993e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.85615905
+alvo 323 eps 1e-06 | inferior 9.99998999998e-7 | superior 9.9999900014e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 324 eps 1e-05 | inferior 7.80566721151e-6 | superior 9.99999e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.7805675
+alvo 324 eps 1e-06 | inferior 9.99998999992e-7 | superior 9.99999000102e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 325 eps 1e-05 | inferior 7.55301105943e-6 | superior 9.99999000006e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.75530186
+alvo 325 eps 1e-06 | inferior 9.99998999999e-7 | superior 9.99999000083e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 326 eps 1e-05 | inferior 7.99148520478e-6 | superior 9.99999000005e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.79914932
+alvo 326 eps 1e-06 | inferior 9.99998999996e-7 | superior 9.99999000121e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 327 eps 1e-05 | inferior 7.75617434693e-6 | superior 9.99998999997e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.77561821
+alvo 327 eps 1e-06 | inferior 9.99998999996e-7 | superior 9.99999000037e-7 | sup/eps-1 -1.0e-6 | inf/sup 1.0
+alvo 328 eps 1e-05 | inferior 7.89336633787e-6 | superior 9.99999000007e-6 | sup/eps-1 -1.0e-6 | inf/sup 0.78933742
